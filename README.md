@@ -1,8 +1,8 @@
-Ardis Icon Theme is project originaly created by Kotus Works <kotus.works@gmail.com>
+Ardis Icon Theme is a project originally created by Kotus Works <kotus.works@gmail.com>
 
-This project's goal is to create a truly open source icon theme, to support every DE, and to theme as much applications as possible.
+This project's goal is to create a truly open source icon theme, to support every DE, and to theme as many applications as possible.
 
-Ardis Icon Theme's inspiration is drawned from combination of styles from 
+Ardis Icon Theme's inspiration is drawn from a combination of styles including
 
         - Numix utouchicon theme: https://github.com/numixproject/numix-icon-theme-utouch
         - Simple icon theme: http://kxmylo.deviantart.com/art/Simple-icon-theme-426040287
