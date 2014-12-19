@@ -1,726 +1,189 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="100%"
-   height="100%"
-   viewBox="0 0 512 512"
-   id="svg2">
-  <metadata
-     id="metadata267">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4">
-    <path
-       d="m 261.63,150.37 -21.929,5.586 -7.83,21.23 -12.09,-19.13 -22.612,-0.886 14.457,-17.409 -6.145,-21.779 21.02,8.37 18.814,-12.574 -1.464,22.582 z"
-       inkscape:connector-curvature="0"
-       id="0"
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff" />
-  </defs>
-  <path
-     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
-     inkscape:connector-curvature="0"
-     id="path7"
-     style="fill:#55405f" />
-  <text
-     x="46.25"
-     y="142.67"
-     id="text9"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="46.25"
-       y="142.67"
-       id="tspan11" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata267">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs4">
+  <path id="0" d="m261.63 150.37-21.929 5.586-7.83 21.23-12.09-19.13-22.612-0.886 14.457-17.409-6.145-21.779 21.02 8.37 18.814-12.574-1.464 22.582z" fill-rule="evenodd" stroke="#fff" fill="#fff"/>
+ </defs>
+ <path id="path7" d="m26 0c-14.397 0-26 11.603-26 26v460c0 14.397 11.603 26 26 26h460c14.397 0 26-11.603 26-26v-460c0-14.397-11.6-26-26-26h-460" fill="#55405f"/>
+ <text id="text9" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="142.67" x="46.25" font-family="Gentium Book Basic">
+  <tspan id="tspan11" y="142.67" x="46.25"/>
+ </text>
+ <text id="text13" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="223.35001" x="208.61" font-family="Arial"/>
+ <text id="text15" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="62.669998" x="627.52002" font-family="Gentium Book Basic">
+  <tspan id="tspan17" y="62.669998" x="627.52002"/>
+ </text>
+ <text id="text19" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-97.690002" x="353.45999" font-family="Arial"/>
+ <text id="text21" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-118.59" x="-444.06" font-family="Gentium Book Basic">
+  <tspan id="tspan23" y="-118.59" x="-444.06"/>
+ </text>
+ <text id="text25" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-825.03003" x="86.419998" font-family="Arial"/>
+ <text id="text27" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-335.06" x="653.98999" font-family="Gentium Book Basic">
+  <tspan id="tspan29" y="-335.06" x="653.98999"/>
+ </text>
+ <text id="text31" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1693.71" x="360.06" font-family="Arial"/>
+ <text id="text33" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-415.06" x="1235.26" font-family="Gentium Book Basic">
+  <tspan id="tspan35" y="-415.06" x="1235.26"/>
+ </text>
+ <text id="text37" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2014.74" x="504.89999" font-family="Arial"/>
+ <text id="text39" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-887.46002" x="846.14001" font-family="Gentium Book Basic">
+  <tspan id="tspan41" y="-887.46002" x="846.14001"/>
+ </text>
+ <text id="text43" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3910.3899" x="407.94" font-family="Arial"/>
+ <text id="text45" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-967.46997" x="1427.4" font-family="Gentium Book Basic">
+  <tspan id="tspan47" y="-967.46997" x="1427.4"/>
+ </text>
+ <text id="text49" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4231.4302" x="552.78003" font-family="Arial"/>
+ <g id="g51" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text53" y="447.25" x="-405.39999" font-size="208.33px">
+   <tspan id="tspan55" y="447.25" x="-405.39999"/>
   </text>
-  <text
-     x="208.61"
-     y="223.35001"
-     transform="scale(4.0128,0.2492)"
-     id="text13"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="627.52002"
-     y="62.669998"
-     id="text15"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="627.52002"
-       y="62.669998"
-       id="tspan17" />
+  <text id="text57" y="123.98" x="-51.380001" font-size="129.23px">
+   <tspan id="tspan59" y="123.98" x="-51.380001"/>
   </text>
-  <text
-     x="353.45999"
-     y="-97.690002"
-     transform="scale(4.0128,0.2492)"
-     id="text19"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-444.06"
-     y="-118.59"
-     id="text21"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-444.06"
-       y="-118.59"
-       id="tspan23" />
+ </g>
+ <text id="text61" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="148.37" x="184.28" font-family="Arial"/>
+ <text id="text63" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="43.983002" x="529.89001" font-family="Gentium Book Basic">
+  <tspan id="tspan65" y="43.983002" x="529.89001"/>
+ </text>
+ <text id="text67" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-172.67" x="329.13" font-family="Arial"/>
+ <text id="text69" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-137.28" x="-541.69" font-family="Gentium Book Basic">
+  <tspan id="tspan71" y="-137.28" x="-541.69"/>
+ </text>
+ <text id="text73" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-900.01001" x="62.09" font-family="Arial"/>
+ <text id="text75" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-353.75" x="556.35999" font-family="Gentium Book Basic">
+  <tspan id="tspan77" y="-353.75" x="556.35999"/>
+ </text>
+ <text id="text79" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1768.6899" x="335.73001" font-family="Arial"/>
+ <text id="text81" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-433.75" x="1137.63" font-family="Gentium Book Basic">
+  <tspan id="tspan83" y="-433.75" x="1137.63"/>
+ </text>
+ <text id="text85" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2089.72" x="480.57999" font-family="Arial"/>
+ <text id="text87" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-906.15002" x="748.51001" font-family="Gentium Book Basic">
+  <tspan id="tspan89" y="-906.15002" x="748.51001"/>
+ </text>
+ <text id="text91" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3985.3701" x="383.60999" font-family="Arial"/>
+ <text id="text93" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-986.15997" x="1329.77" font-family="Gentium Book Basic">
+  <tspan id="tspan95" y="-986.15997" x="1329.77"/>
+ </text>
+ <text id="text97" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4306.3999" x="528.46002" font-family="Arial"/>
+ <g id="g99" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text101" y="428.56" x="-503.03" font-size="208.33px">
+   <tspan id="tspan103" y="428.56" x="-503.03"/>
   </text>
-  <text
-     x="86.419998"
-     y="-825.03003"
-     transform="scale(4.0128,0.2492)"
-     id="text25"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="653.98999"
-     y="-335.06"
-     id="text27"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="653.98999"
-       y="-335.06"
-       id="tspan29" />
+  <text id="text105" y="133.73" x="102.66" font-size="129.23px">
+   <tspan id="tspan107" y="133.73" x="102.66"/>
   </text>
-  <text
-     x="360.06"
-     y="-1693.71"
-     transform="scale(4.0128,0.2492)"
-     id="text31"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1235.26"
-     y="-415.06"
-     id="text33"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1235.26"
-       y="-415.06"
-       id="tspan35" />
+ </g>
+ <text id="text109" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="187.5" x="222.66" font-family="Arial"/>
+ <text id="text111" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="53.733002" x="683.92999" font-family="Gentium Book Basic">
+  <tspan id="tspan113" y="53.733002" x="683.92999"/>
+ </text>
+ <text id="text115" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-133.53999" x="367.51001" font-family="Arial"/>
+ <text id="text117" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-127.53" x="-387.64999" font-family="Gentium Book Basic">
+  <tspan id="tspan119" y="-127.53" x="-387.64999"/>
+ </text>
+ <text id="text121" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-860.89001" x="100.47" font-family="Arial"/>
+ <text id="text123" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-344" x="710.40002" font-family="Gentium Book Basic">
+  <tspan id="tspan125" y="-344" x="710.40002"/>
+ </text>
+ <text id="text127" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1729.5601" x="374.10999" font-family="Arial"/>
+ <text id="text129" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-424" x="1291.67" font-family="Gentium Book Basic">
+  <tspan id="tspan131" y="-424" x="1291.67"/>
+ </text>
+ <text id="text133" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2050.5901" x="518.96002" font-family="Arial"/>
+ <text id="text135" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-896.40002" x="902.54999" font-family="Gentium Book Basic">
+  <tspan id="tspan137" y="-896.40002" x="902.54999"/>
+ </text>
+ <text id="text139" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3946.24" x="421.98999" font-family="Arial"/>
+ <text id="text141" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-976.40997" x="1483.8101" font-family="Gentium Book Basic">
+  <tspan id="tspan143" y="-976.40997" x="1483.8101"/>
+ </text>
+ <text id="text145" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4267.2798" x="566.84003" font-family="Arial"/>
+ <g id="g147" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text149" y="438.31" x="-348.98999" font-size="208.33px">
+   <tspan id="tspan151" y="438.31" x="-348.98999"/>
   </text>
-  <text
-     x="504.89999"
-     y="-2014.74"
-     transform="scale(4.0128,0.2492)"
-     id="text37"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="846.14001"
-     y="-887.46002"
-     id="text39"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="846.14001"
-       y="-887.46002"
-       id="tspan41" />
+  <text id="text153" y="159.77" x="20.219999" font-size="129.23px">
+   <tspan id="tspan155" y="159.77" x="20.219999"/>
   </text>
-  <text
-     x="407.94"
-     y="-3910.3899"
-     transform="scale(4.0128,0.2492)"
-     id="text43"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1427.4"
-     y="-967.46997"
-     id="text45"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1427.4"
-       y="-967.46997"
-       id="tspan47" />
+ </g>
+ <text id="text157" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="291.97" x="202.12" font-family="Arial"/>
+ <text id="text159" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="79.769997" x="601.48999" font-family="Gentium Book Basic">
+  <tspan id="tspan161" y="79.769997" x="601.48999"/>
+ </text>
+ <text id="text163" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-29.07" x="346.97" font-family="Arial"/>
+ <text id="text165" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-101.49" x="-470.09" font-family="Gentium Book Basic">
+  <tspan id="tspan167" y="-101.49" x="-470.09"/>
+ </text>
+ <text id="text169" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-756.41998" x="79.929001" font-family="Arial"/>
+ <text id="text171" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-317.95999" x="627.96002" font-family="Gentium Book Basic">
+  <tspan id="tspan173" y="-317.95999" x="627.96002"/>
+ </text>
+ <text id="text175" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1625.09" x="353.57001" font-family="Arial"/>
+ <text id="text177" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-397.95999" x="1209.23" font-family="Gentium Book Basic">
+  <tspan id="tspan179" y="-397.95999" x="1209.23"/>
+ </text>
+ <text id="text181" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1946.12" x="498.42001" font-family="Arial"/>
+ <text id="text183" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-870.35999" x="820.10999" font-family="Gentium Book Basic">
+  <tspan id="tspan185" y="-870.35999" x="820.10999"/>
+ </text>
+ <text id="text187" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3841.77" x="401.45001" font-family="Arial"/>
+ <text id="text189" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-950.37" x="1401.37" font-family="Gentium Book Basic">
+  <tspan id="tspan191" y="-950.37" x="1401.37"/>
+ </text>
+ <text id="text193" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4162.8101" x="546.29999" font-family="Arial"/>
+ <g id="g195" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text197" y="464.35001" x="-431.42999" font-size="208.33px">
+   <tspan id="tspan199" y="464.35001" x="-431.42999"/>
   </text>
-  <text
-     x="552.78003"
-     y="-4231.4302"
-     transform="scale(4.0128,0.2492)"
-     id="text49"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g51"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="-405.39999"
-       y="447.25"
-       id="text53"
-       style="font-size:208.33000183px">
-      <tspan
-         x="-405.39999"
-         y="447.25"
-         id="tspan55" />
-    </text>
-    <text
-       x="-51.380001"
-       y="123.98"
-       id="text57"
-       style="font-size:129.22999573px">
-      <tspan
-         x="-51.380001"
-         y="123.98"
-         id="tspan59" />
-    </text>
-  </g>
-  <text
-     x="184.28"
-     y="148.37"
-     transform="scale(4.0128,0.2492)"
-     id="text61"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="529.89001"
-     y="43.983002"
-     id="text63"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="529.89001"
-       y="43.983002"
-       id="tspan65" />
+  <text id="text201" y="159.77" x="20.219999" font-size="129.23px">
+   <tspan id="tspan203" y="159.77" x="20.219999"/>
   </text>
-  <text
-     x="329.13"
-     y="-172.67"
-     transform="scale(4.0128,0.2492)"
-     id="text67"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-541.69"
-     y="-137.28"
-     id="text69"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-541.69"
-       y="-137.28"
-       id="tspan71" />
-  </text>
-  <text
-     x="62.09"
-     y="-900.01001"
-     transform="scale(4.0128,0.2492)"
-     id="text73"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="556.35999"
-     y="-353.75"
-     id="text75"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="556.35999"
-       y="-353.75"
-       id="tspan77" />
-  </text>
-  <text
-     x="335.73001"
-     y="-1768.6899"
-     transform="scale(4.0128,0.2492)"
-     id="text79"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1137.63"
-     y="-433.75"
-     id="text81"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1137.63"
-       y="-433.75"
-       id="tspan83" />
-  </text>
-  <text
-     x="480.57999"
-     y="-2089.72"
-     transform="scale(4.0128,0.2492)"
-     id="text85"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="748.51001"
-     y="-906.15002"
-     id="text87"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="748.51001"
-       y="-906.15002"
-       id="tspan89" />
-  </text>
-  <text
-     x="383.60999"
-     y="-3985.3701"
-     transform="scale(4.0128,0.2492)"
-     id="text91"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1329.77"
-     y="-986.15997"
-     id="text93"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1329.77"
-       y="-986.15997"
-       id="tspan95" />
-  </text>
-  <text
-     x="528.46002"
-     y="-4306.3999"
-     transform="scale(4.0128,0.2492)"
-     id="text97"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g99"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="-503.03"
-       y="428.56"
-       id="text101"
-       style="font-size:208.33000183px">
-      <tspan
-         x="-503.03"
-         y="428.56"
-         id="tspan103" />
-    </text>
-    <text
-       x="102.66"
-       y="133.73"
-       id="text105"
-       style="font-size:129.22999573px">
-      <tspan
-         x="102.66"
-         y="133.73"
-         id="tspan107" />
-    </text>
-  </g>
-  <text
-     x="222.66"
-     y="187.5"
-     transform="scale(4.0128,0.2492)"
-     id="text109"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="683.92999"
-     y="53.733002"
-     id="text111"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="683.92999"
-       y="53.733002"
-       id="tspan113" />
-  </text>
-  <text
-     x="367.51001"
-     y="-133.53999"
-     transform="scale(4.0128,0.2492)"
-     id="text115"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-387.64999"
-     y="-127.53"
-     id="text117"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-387.64999"
-       y="-127.53"
-       id="tspan119" />
-  </text>
-  <text
-     x="100.47"
-     y="-860.89001"
-     transform="scale(4.0128,0.2492)"
-     id="text121"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="710.40002"
-     y="-344"
-     id="text123"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="710.40002"
-       y="-344"
-       id="tspan125" />
-  </text>
-  <text
-     x="374.10999"
-     y="-1729.5601"
-     transform="scale(4.0128,0.2492)"
-     id="text127"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1291.67"
-     y="-424"
-     id="text129"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1291.67"
-       y="-424"
-       id="tspan131" />
-  </text>
-  <text
-     x="518.96002"
-     y="-2050.5901"
-     transform="scale(4.0128,0.2492)"
-     id="text133"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="902.54999"
-     y="-896.40002"
-     id="text135"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="902.54999"
-       y="-896.40002"
-       id="tspan137" />
-  </text>
-  <text
-     x="421.98999"
-     y="-3946.24"
-     transform="scale(4.0128,0.2492)"
-     id="text139"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1483.8101"
-     y="-976.40997"
-     id="text141"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1483.8101"
-       y="-976.40997"
-       id="tspan143" />
-  </text>
-  <text
-     x="566.84003"
-     y="-4267.2798"
-     transform="scale(4.0128,0.2492)"
-     id="text145"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g147"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="-348.98999"
-       y="438.31"
-       id="text149"
-       style="font-size:208.33000183px">
-      <tspan
-         x="-348.98999"
-         y="438.31"
-         id="tspan151" />
-    </text>
-    <text
-       x="20.219999"
-       y="159.77"
-       id="text153"
-       style="font-size:129.22999573px">
-      <tspan
-         x="20.219999"
-         y="159.77"
-         id="tspan155" />
-    </text>
-  </g>
-  <text
-     x="202.12"
-     y="291.97"
-     transform="scale(4.0128,0.2492)"
-     id="text157"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="601.48999"
-     y="79.769997"
-     id="text159"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="601.48999"
-       y="79.769997"
-       id="tspan161" />
-  </text>
-  <text
-     x="346.97"
-     y="-29.07"
-     transform="scale(4.0128,0.2492)"
-     id="text163"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-470.09"
-     y="-101.49"
-     id="text165"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-470.09"
-       y="-101.49"
-       id="tspan167" />
-  </text>
-  <text
-     x="79.929001"
-     y="-756.41998"
-     transform="scale(4.0128,0.2492)"
-     id="text169"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="627.96002"
-     y="-317.95999"
-     id="text171"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="627.96002"
-       y="-317.95999"
-       id="tspan173" />
-  </text>
-  <text
-     x="353.57001"
-     y="-1625.09"
-     transform="scale(4.0128,0.2492)"
-     id="text175"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1209.23"
-     y="-397.95999"
-     id="text177"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1209.23"
-       y="-397.95999"
-       id="tspan179" />
-  </text>
-  <text
-     x="498.42001"
-     y="-1946.12"
-     transform="scale(4.0128,0.2492)"
-     id="text181"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="820.10999"
-     y="-870.35999"
-     id="text183"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="820.10999"
-       y="-870.35999"
-       id="tspan185" />
-  </text>
-  <text
-     x="401.45001"
-     y="-3841.77"
-     transform="scale(4.0128,0.2492)"
-     id="text187"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1401.37"
-     y="-950.37"
-     id="text189"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1401.37"
-       y="-950.37"
-       id="tspan191" />
-  </text>
-  <text
-     x="546.29999"
-     y="-4162.8101"
-     transform="scale(4.0128,0.2492)"
-     id="text193"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g195"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="-431.42999"
-       y="464.35001"
-       id="text197"
-       style="font-size:208.33000183px">
-      <tspan
-         x="-431.42999"
-         y="464.35001"
-         id="tspan199" />
-    </text>
-    <text
-       x="20.219999"
-       y="159.77"
-       id="text201"
-       style="font-size:129.22999573px">
-      <tspan
-         x="20.219999"
-         y="159.77"
-         id="tspan203" />
-    </text>
-  </g>
-  <text
-     x="202.12"
-     y="291.97"
-     transform="scale(4.0128,0.2492)"
-     id="text205"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="601.48999"
-     y="79.769997"
-     id="text207"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="601.48999"
-       y="79.769997"
-       id="tspan209" />
-  </text>
-  <text
-     x="346.97"
-     y="-29.07"
-     transform="scale(4.0128,0.2492)"
-     id="text211"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-470.09"
-     y="-101.49"
-     id="text213"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-470.09"
-       y="-101.49"
-       id="tspan215" />
-  </text>
-  <text
-     x="79.929001"
-     y="-756.41998"
-     transform="scale(4.0128,0.2492)"
-     id="text217"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="627.96002"
-     y="-317.95999"
-     id="text219"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="627.96002"
-       y="-317.95999"
-       id="tspan221" />
-  </text>
-  <text
-     x="353.57001"
-     y="-1625.09"
-     transform="scale(4.0128,0.2492)"
-     id="text223"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1209.23"
-     y="-397.95999"
-     id="text225"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1209.23"
-       y="-397.95999"
-       id="tspan227" />
-  </text>
-  <text
-     x="498.42001"
-     y="-1946.12"
-     transform="scale(4.0128,0.2492)"
-     id="text229"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="820.10999"
-     y="-870.35999"
-     id="text231"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="820.10999"
-       y="-870.35999"
-       id="tspan233" />
-  </text>
-  <text
-     x="401.45001"
-     y="-3841.77"
-     transform="scale(4.0128,0.2492)"
-     id="text235"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1401.37"
-     y="-950.37"
-     id="text237"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1401.37"
-       y="-950.37"
-       id="tspan239" />
-  </text>
-  <text
-     x="546.29999"
-     y="-4162.8101"
-     transform="scale(4.0128,0.2492)"
-     id="text241"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-431.42999"
-     y="464.35001"
-     id="text243"
-     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-431.42999"
-       y="464.35001"
-       id="tspan245" />
-  </text>
-  <path
-     d="M 0,261.09 V 486 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 v -81.12 c -22.503,-14.04 -37.886,-24.672 -40.938,-29.25 -15.01,-22.514 -93.81,-63.803 -146.34,-78.81 -52.53,-15.01 -236.38,-7.462 -281.41,-18.719 -7.891,-1.973 -23.355,-8.215 -43.31,-17"
-     inkscape:connector-curvature="0"
-     id="path247"
-     style="fill:#19171c" />
-  <path
-     d="m 310.72,40.22 -24.344,16.219 -27.19,-10.813 c 0.061,0.219 7.938,28.19 7.938,28.19 -0.144,0.174 -18.688,22.5 -18.688,22.5 0.02,10e-4 2.16,0.075 2.594,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.02,0.001 2.192,0.075 2.625,0.094 -0.13,0.156 -1.156,1.344 -1.156,1.344 0.02,0.001 2.16,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.019,0.001 2.093,0.076 2.5,0.094 -0.121,0.144 -1.094,1.313 -1.094,1.313 0.02,10e-4 2.16,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.019,0.002 2.16,0.075 2.594,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.019,10e-4 2.192,0.075 2.625,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.019,0.001 2.16,0.075 2.594,0.094 -0.13,0.156 -1.125,1.344 -1.125,1.344 0.019,10e-4 2.16,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.019,0.001 2.094,0.076 2.5,0.094 -0.121,0.144 -1.094,1.313 -1.094,1.313 0.019,0.001 2.16,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.019,0.001 2.16,0.075 2.594,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.019,0.001 2.16,0.075 2.594,0.094 l -1.125,1.375 c 0.019,10e-4 2.16,0.075 2.594,0.094 l -1.125,1.375 c 0.019,0.001 2.16,0.043 2.594,0.063 l -1.156,1.375 c 0.017,0.001 2.125,0.076 2.531,0.094 l -1.094,1.344 c 0.019,10e-4 2.16,0.044 2.594,0.063 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.019,10e-4 2.192,0.075 2.625,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.019,0.001 2.16,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.017,0.001 2.16,0.075 2.594,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.017,0.001 2.192,0.044 2.625,0.063 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.017,10e-4 2.094,0.076 2.5,0.094 -0.121,0.146 -1.094,1.344 -1.094,1.344 h 0.063 c 0.017,0.001 2.142,0.045 2.563,0.063 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.017,0.001 2.162,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.017,0.001 2.162,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.017,10e-4 2.162,0.075 2.594,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.017,0 2.162,0.043 2.594,0.063 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.017,0 2.162,0.075 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.016,0 2.094,0.076 2.5,0.094 l -1.094,1.313 c 0.017,0 2.162,0.075 2.594,0.094 l -1.125,1.375 c 0.017,0 2.162,0.075 2.594,0.094 l -1.156,1.375 c 0.017,0 2.162,0.075 2.594,0.094 l -1.125,1.375 c 0.017,0 2.162,0.044 2.594,0.063 l -1.125,1.375 c 0.017,0 2.162,0.075 2.594,0.094 l -1.156,1.375 c 0.016,0 2.127,0.076 2.531,0.094 l -1.094,1.313 c 0.016,0 2.162,0.075 2.594,0.094 l -1.156,1.375 c 0.016,0 2.193,0.075 2.625,0.094 l -1.156,1.375 c 0.016,0 2.162,0.075 2.594,0.094 l -1.125,1.375 c 0.016,0 2.162,0.075 2.594,0.094 l -1.125,1.345 c 0.016,0 2.162,0.075 2.594,0.094 l -1.156,1.375 c 0.016,0 2.096,0.076 2.5,0.094 -0.121,0.144 -1.094,1.313 -1.094,1.313 0.016,0 2.193,0.075 2.625,0.094 l -1.156,1.375 c 0.016,0 2.162,0.075 2.594,0.094 l -1.125,1.375 c 0.016,0 2.163,0.075 2.594,0.094 l -1.125,1.375 c 0.016,0 2.163,0.075 2.594,0.094 l -1.156,1.344 c 0.016,0 2.163,0.075 2.594,0.094 l -1.125,1.375 c 0.016,0 2.163,0.075 2.594,0.094 l -1.125,1.375 c 0.015,0 2.096,0.076 2.5,0.094 l -1.094,1.313 c 0.016,0 2.163,0.075 2.594,0.094 l -1.125,1.375 c 0.015,0 2.163,0.075 2.594,0.094 l -1.156,1.376 c 0.015,0 2.194,0.075 2.625,0.094 l -1.156,1.344 c 0.015,0 2.163,0.075 2.594,0.094 l -1.125,1.375 c 0.015,0 2.163,0.075 2.594,0.094 l -1.156,1.375 c 0.015,0 2.128,0.076 2.531,0.094 l -1.094,1.313 c 0.015,0 2.163,0.075 2.594,0.094 l -1.156,1.375 c 0.015,0 2.194,0.075 2.625,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 0.015,0 2.163,0.075 2.594,0.094 -0.13,0.156 -1.125,1.344 -1.125,1.344 0.015,0 2.163,0.075 2.594,0.094 l -1.125,1.375 c 0.015,0 2.163,0.076 2.594,0.094 l -1.156,1.375 c 0.013,0 2.128,0.076 2.531,0.094 l -1.094,1.313 c 0.015,0 2.163,0.076 2.594,0.094 l -1.156,1.375 c 0.015,0 2.163,0.076 2.594,0.094 l -1.125,1.375 c 0.015,0 2.163,0.076 2.594,0.094 l -1.125,1.344 c 0.013,0 2.163,0.076 2.594,0.094 l -1.156,1.375 c 0.013,0 2.194,0.076 2.625,0.094 l -1.156,1.375 c 0.013,0 2.097,0.076 2.5,0.094 l -1.094,1.313 h 0.063 c 0.013,0 2.145,0.076 2.563,0.094 l -1.156,1.375 c 0.013,0 2.165,0.076 2.594,0.094 l -1.125,1.375 c 0.013,0 2.165,0.076 2.594,0.094 l -1.156,1.344 c 0.013,0 2.196,0.076 2.625,0.094 l -1.156,1.375 c 0.013,0 2.165,0.076 2.594,0.094 l -1.125,1.375 c 0.013,0 2.165,0.076 2.594,0.094 l -1.125,1.375 c 0.013,0 2.097,0.076 2.5,0.094 l -1.094,1.313 c 0.013,0 2.165,0.076 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.013,0 2.165,0.076 2.594,0.094 l -1.156,1.344 c 0.013,0 2.165,0.076 2.594,0.094 l -1.125,1.375 c 0.013,0 2.165,0.076 2.594,0.094 l -1.125,1.375 c 0.013,0 2.165,0.076 2.594,0.094 l -1.156,1.375 c 0.012,0 2.13,0.076 2.531,0.094 l -1.094,1.313 c 0.012,0 2.165,0.076 2.594,0.094 l -1.156,1.375 c 0.012,0 2.165,0.076 2.594,0.094 l -1.125,1.344 c 0.012,0 2.165,0.076 2.594,0.094 l -1.125,1.375 c 0.012,0 2.165,0.076 2.594,0.094 l -1.156,1.375 c 0.012,0 2.196,0.076 2.625,0.094 l -1.156,1.375 c 0.012,0 2.099,0.076 2.5,0.094 l -1.094,1.313 c 0.012,0 2.196,0.076 2.625,0.094 l -1.156,1.375 c 0.012,0 2.165,0.076 2.594,0.094 l -1.125,1.344 c 0.012,0 2.166,0.076 2.594,0.094 l -1.125,1.375 c 0.012,0 2.166,0.076 2.594,0.094 l -1.156,1.375 c 0.012,0 2.166,0.076 2.594,0.094 -0.13,0.156 -1.125,1.375 -1.125,1.375 0.012,0 2.166,0.076 2.594,0.094 l -1.125,1.344 c 0.01,0 2.099,0.076 2.5,0.094 l -1.094,1.344 c 0.01,0 2.166,0.076 2.594,0.094 l -1.125,1.344 c 0.01,0 2.166,0.076 2.594,0.094 l -1.156,1.375 c 0.01,0 2.166,0.076 2.594,0.094 l -1.125,1.375 c 0.01,0 2.166,0.076 2.594,0.094 l -1.125,1.375 c 0.01,0 2.166,0.076 2.594,0.094 l -1.156,1.344 c 0.01,0 2.131,0.076 2.531,0.094 l -1.094,1.346 c 0.01,0 2.166,0.076 2.594,0.094 l -1.156,1.344 c 0.01,0 2.197,0.076 2.625,0.094 l -1.156,1.375 c 0.01,0 2.166,0.076 2.594,0.094 l -1.125,1.375 c 0.01,0 2.166,0.076 2.594,0.094 l -1.156,1.375 c 0.01,0 2.197,0.076 2.625,0.094 l -1.156,1.344 c 0.009,0 2.1,0.076 2.5,0.094 l -1.094,1.344 c 0.01,0 2.197,0.076 2.625,0.094 l -1.156,1.344 2.594,0.094 -1.125,1.375 c 0.01,0 2.166,0.076 2.594,0.094 l -1.125,1.375 c 0.009,0 2.166,0.076 2.594,0.094 l -1.156,1.375 c 0.009,0 2.166,0.076 2.594,0.094 l -1.125,1.375 c 0.009,0 2.1,0.045 2.5,0.063 l -1.094,1.344 h 0.063 c 0.009,0 2.117,0.076 2.531,0.094 l -0.906,1.094 c -7.749,-3.094 -16.06,-6.438 -16.06,-6.438 0.061,0.219 7.938,28.19 7.938,28.19 -0.066,0.079 -4.21,5.145 -8.344,10.125 10e-4,-0.017 0,-0.281 0,-0.281 l -1.625,1.094 c 0.07,-1.098 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.069,-1.079 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.069,-1.07 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.069,-1.063 0.188,-2.563 0.188,-2.563 l -1.625,1.063 c 0.064,-0.994 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.067,-1.044 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.066,-1.036 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.066,-1.019 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.064,-1.01 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.064,-1 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.06,-0.937 0.156,-2.469 0.156,-2.469 l -1.625,1.094 c 0.063,-0.985 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.063,-0.978 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.061,-0.963 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.061,-0.955 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.058,-0.918 0.125,-2.5 0.125,-2.5 l -1.656,1.094 c 0.06,-0.933 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.055,-0.876 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.06,-0.924 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.058,-0.911 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.058,-0.903 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.055,-0.867 0.125,-2.5 0.125,-2.5 l -1.594,1.094 c 0.057,-0.882 0.125,-2.563 0.125,-2.563 l -1.594,1.063 c 0.053,-0.829 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.055,-0.876 0.156,-2.563 0.156,-2.563 l -1.625,1.094 0.188,-2.531 -1.656,1.094 c 0.055,-0.855 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.054,-0.849 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.054,-0.838 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.05,-0.785 0.156,-2.469 0.156,-2.469 l -1.625,1.094 c 0.053,-0.825 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.053,-0.819 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.053,-0.813 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.051,-0.803 0.188,-2.563 0.188,-2.563 l -1.656,1.125 c 0.051,-0.797 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.051,-0.791 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.047,-0.736 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.05,-0.779 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.05,-0.774 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.05,-0.763 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.047,-0.733 0.125,-2.5 0.125,-2.5 l -1.625,1.094 c 0.048,-0.753 0.156,-2.563 0.156,-2.563 l -1.594,1.063 c 0.045,-0.701 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.048,-0.743 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.047,-0.737 0.188,-2.531 0.188,-2.531 l -1.656,1.094 0.188,-2.563 -1.656,1.094 c 0.047,-0.724 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.047,-0.718 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.042,-0.668 0.156,-2.469 0.156,-2.469 l -1.625,1.094 c 0.045,-0.709 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.045,-0.705 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.045,-0.696 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.044,-0.692 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.044,-0.687 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.041,-0.639 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.044,-0.679 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.044,-0.674 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.042,-0.667 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.042,-0.663 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.042,-0.658 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.042,-0.651 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.039,-0.609 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.041,-0.647 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.041,-0.639 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.041,-0.635 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.041,-0.629 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.039,-0.625 0.188,-2.563 0.188,-2.563 l -1.625,1.063 c 0.038,-0.584 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.039,-0.617 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.039,-0.613 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.039,-0.61 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.039,-0.604 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.038,-0.6 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.036,-0.56 0.156,-2.469 0.156,-2.469 l -1.625,1.094 c 0.038,-0.594 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.038,-0.59 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.038,-0.587 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.038,-0.581 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.036,-0.578 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.036,-0.575 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.034,-0.534 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.036,-0.569 0.188,-2.563 0.188,-2.563 l -1.594,1.094 c 0.036,-0.565 0.156,-2.563 0.156,-2.563 l -1.656,1.125 c 0.036,-0.56 0.188,-2.563 0.188,-2.563 l -1.594,1.094 c 0.035,-0.556 0.125,-2.563 0.125,-2.563 l -1.594,1.094 c 0.035,-0.553 0.125,-2.563 0.125,-2.563 l -1.531,1.063 c 0.034,-0.514 0.125,-2.469 0.125,-2.469 l -1.625,1.094 c 0.035,-0.549 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.035,-0.546 0.188,-2.531 0.188,-2.531 l -1.594,1.094 c 0.035,-0.539 0.125,-2.563 0.125,-2.563 l -1.625,1.094 c 0.035,-0.537 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.034,-0.534 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.032,-0.498 0.156,-2.469 0.156,-2.469 l -1.625,1.094 c 0.034,-0.53 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.034,-0.527 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.034,-0.523 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.034,-0.52 0.188,-2.563 0.188,-2.563 l -1.656,1.125 c 0.034,-0.515 0.188,-2.563 0.188,-2.563 l -1.594,1.031 c 0.031,-0.48 0.188,-2.438 0.188,-2.438 l -1.656,1.094 c 0.032,-0.511 0.188,-2.563 0.188,-2.563 l -1.656,1.031 c 0.032,-0.49 0.188,-2.5 0.188,-2.5 l -1.625,1.094 c 0.032,-0.505 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.032,-0.502 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.032,-0.498 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.032,-0.496 0.156,-2.563 0.156,-2.563 l -1.594,1.063 c 0.029,-0.463 0.188,-2.469 0.188,-2.469 l -1.625,1.094 0.156,-2.563 -1.625,1.094 c 0.031,-0.489 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.031,-0.486 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.031,-0.482 0.188,-2.563 0.188,-2.563 l -1.594,1.094 c 0.031,-0.479 0.156,-2.531 0.156,-2.531 l -1.563,1.031 c 0.029,-0.447 0.125,-2.469 0.125,-2.469 l -1.625,1.063 c 0.029,-0.46 0.188,-2.5 0.188,-2.5 l -1.656,1.031 c 0.029,-0.458 0.188,-2.5 0.188,-2.5 l -1.656,1.094 c 0.031,-0.471 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.031,-0.467 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.029,-0.466 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.028,-0.433 0.188,-2.469 0.188,-2.469 l -1.656,1.063 c 0.029,-0.445 0.188,-2.5 0.188,-2.5 l -1.656,1.094 c 0.029,-0.46 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.029,-0.457 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.029,-0.454 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.029,-0.451 0.188,-2.563 0.188,-2.563 l -1.594,1.094 c 0.029,-0.448 0.125,-2.563 0.125,-2.563 l -1.594,1.094 c 0.028,-0.432 0.188,-2.5 0.188,-2.5 l -1.625,1.094 c 0.029,-0.445 0.156,-2.563 0.156,-2.563 l -1.625,1.063 0.188,-2.5 -1.656,1.094 c 0.028,-0.441 0.188,-2.563 0.188,-2.563 l -1.594,1.094 c 0.028,-0.438 0.125,-2.563 0.125,-2.563 l -1.625,1.094 c 0.028,-0.436 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.42 0.188,-2.5 0.188,-2.5 l -1.594,1.063 c 0.026,-0.417 0.156,-2.531 0.156,-2.531 l -1.656,1.125 c 0.028,-0.431 0.188,-2.563 0.188,-2.563 l -1.594,1.031 c 0.026,-0.413 0.125,-2.5 0.125,-2.5 l -1.469,0.969 c -0.001,10e-4 -0.152,0.091 -0.156,0.094 0.026,-0.412 0.156,-2.531 0.156,-2.531 l -1.313,0.938 c -0.003,0.001 -0.302,0.149 -0.313,0.156 0.028,-0.423 0.188,-2.531 0.188,-2.531 l -1.188,0.813 c -0.003,0.001 -0.389,0.27 -0.406,0.281 0.026,-0.409 0.188,-2.531 0.188,-2.531 l -1.125,0.75 -0.531,0.344 c 0.026,-0.42 0.188,-2.531 0.188,-2.531 l -1,0.625 c -0.004,0.003 -0.618,0.381 -0.656,0.406 0.026,-0.404 0.188,-2.5 0.188,-2.5 l -0.875,0.563 c -0.006,0.004 -0.727,0.464 -0.781,0.5 0.026,-0.403 0.188,-2.531 0.188,-2.531 l -0.719,0.5 -0.906,0.594 c 0.026,-0.415 0.188,-2.531 0.188,-2.531 l -0.594,0.406 c -0.009,0.006 -0.968,0.625 -1.063,0.688 0.026,-0.412 0.188,-2.563 0.188,-2.563 l -0.469,0.313 c -0.009,0.006 -1.017,0.647 -1.125,0.719 0.025,-0.384 0.188,-2.438 0.188,-2.438 l -0.375,0.219 -1.281,0.813 c 0.025,-0.396 0.188,-2.5 0.188,-2.5 l -0.281,0.125 c -0.01,0.007 -1.22,0.834 -1.375,0.938 0.025,-0.393 0.188,-2.531 0.188,-2.531 0,0 -0.124,0.092 -0.125,0.094 -0.012,0.007 -1.316,0.876 -1.5,1 0.026,-0.406 0.188,-2.531 0.188,-2.531 -0.188,0.127 -24.375,16.281 -24.375,16.281 -0.21,-0.085 -27.19,-10.875 -27.19,-10.875 0.061,0.219 7.938,28.19 7.938,28.19 -0.144,0.175 -18.688,22.531 -18.688,22.531 0.02,0.001 2.16,0.076 2.594,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 h 0.156 c 0.019,0.001 2.075,0.078 2.469,0.094 -0.13,0.156 -1.156,1.375 -1.156,1.375 h 0.281 l 2.313,0.094 c -0.131,0.158 -1.125,1.375 -1.125,1.375 h 0.406 c 0.016,0 1.799,0.082 2.094,0.094 -0.123,0.147 -1.094,1.313 -1.094,1.313 l 0.594,0.031 c 0.015,0 1.707,0.083 1.969,0.094 -0.123,0.149 -1.094,1.344 -1.094,1.344 0,0 0.717,0.031 0.719,0.031 0.015,0 1.615,0.084 1.844,0.094 -0.124,0.149 -1.094,1.313 -1.094,1.313 0,0 0.842,0.063 0.844,0.063 0.013,0 1.541,0.024 1.75,0.031 -0.133,0.161 -1.156,1.375 -1.156,1.375 0,0 0.999,0.031 1,0.031 0.012,0 1.445,0.055 1.625,0.063 -0.134,0.162 -1.156,1.375 -1.156,1.375 l 1.156,0.031 c 0.012,0 1.286,0.057 1.438,0.063 -0.134,0.162 -1.125,1.344 -1.125,1.344 0,0 1.28,0.063 1.281,0.063 0.01,0 1.106,0.027 1.219,0.031 -0.126,0.152 -1.094,1.344 -1.094,1.344 0,0 1.467,0.094 1.469,0.094 0.009,0 1,0.028 1.094,0.031 -0.127,0.152 -1.094,1.313 -1.094,1.313 0,0 1.592,0.094 1.594,0.094 0.007,0 0.899,0.06 0.969,0.063 -0.127,0.153 -1.125,1.313 -1.125,1.313 0,0 1.749,0.092 1.75,0.094 0.006,0 0.758,0.03 0.813,0.031 l -1.094,1.344 c 0,0 1.875,0.092 1.875,0.094 0.006,0 0.65,0.03 0.688,0.031 l -1.094,1.313 2.063,0.094 c 0.004,0 0.478,-0.001 0.5,0 l -1.094,1.375 c 0,0 2.186,0.063 2.188,0.063 h 0.344 l -1.125,1.344 c 0,0 2.374,0.094 2.375,0.094 h 0.219 c -0.14,0.169 -1.125,1.375 -1.125,1.375 0,0 2.499,0.094 2.5,0.094 h 0.094 c -0.14,0.169 -1.156,1.375 -1.156,1.375 0,0 2.537,0.089 2.625,0.094 -0.142,0.171 -1.156,1.375 -1.156,1.375 0,0 2.277,0.081 2.594,0.094 -0.142,0.171 -1.125,1.344 -1.125,1.344 0,0 2.089,0.073 2.594,0.094 -0.143,0.172 -1.156,1.375 -1.156,1.375 0,0 1.793,0.065 2.531,0.094 -0.134,0.162 -1.094,1.313 -1.094,1.313 0,0 1.778,0.062 2.594,0.094 -0.144,0.174 -1.156,1.375 -1.156,1.375 0,0 1.711,0.057 2.625,0.094 -0.146,0.175 -1.156,1.375 -1.156,1.375 0,0 1.598,0.054 2.594,0.094 -0.146,0.175 -1.125,1.375 -1.125,1.375 0,0 1.531,0.051 2.594,0.094 -0.147,0.177 -1.125,1.344 -1.125,1.344 l 2.594,0.094 c -0.147,0.178 -1.156,1.375 -1.156,1.375 l 2.594,0.094 c -0.149,0.178 -1.125,1.375 -1.125,1.375 l 2.5,0.094 -1.094,1.313 2.594,0.094 -1.125,1.375 1.875,0.031 c -68.48,13.13 -120.19,73.35 -120.19,145.66 v 0.031 c 0,40.955 16.604,77.981 43.44,104.81 0.482,0.495 0.95,0.981 1.438,1.469 0.356,0.346 0.703,0.719 1.063,1.063 0.13,0.13 0.214,0.276 0.344,0.406 0.162,0.158 0.368,0.281 0.531,0.438 l -0.375,1.188 80.25,80.25 h 315.03 c 14.397,0 26,-11.603 26,-26 v -255.69 l -1.406,0.938 c 0.038,-0.6 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.036,-0.56 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.038,-0.594 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.038,-0.59 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.038,-0.587 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.038,-0.581 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.036,-0.578 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.036,-0.575 0.188,-2.531 0.188,-2.531 l -1.563,1.031 c 0.034,-0.533 0.156,-2.469 0.156,-2.469 l -1.656,1.094 c 0.036,-0.568 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.036,-0.565 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.036,-0.56 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.035,-0.558 0.188,-2.531 0.188,-2.531 l -1.594,1.094 c 0.035,-0.553 0.125,-2.563 0.125,-2.563 l -1.563,1.031 c 0.034,-0.514 0.156,-2.438 0.156,-2.438 l -1.656,1.094 c 0.035,-0.549 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.035,-0.546 0.188,-2.563 0.188,-2.563 l -1.594,1.094 c 0.035,-0.539 0.156,-2.563 0.156,-2.563 l -1.656,1.125 c 0.035,-0.537 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.034,-0.534 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.032,-0.498 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.034,-0.53 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.034,-0.527 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.034,-0.523 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.034,-0.52 0.188,-2.563 0.188,-2.563 L 474.408,195 c 0.034,-0.515 0.156,-2.563 0.156,-2.563 l -1.594,1.063 c 0.031,-0.48 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.032,-0.511 0.156,-2.563 0.156,-2.563 l -1.625,1.094 c 0.032,-0.506 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.032,-0.505 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.032,-0.502 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.032,-0.498 0.188,-2.563 0.188,-2.563 l -1.656,1.125 c 0.032,-0.496 0.188,-2.563 0.188,-2.563 l -1.594,1.031 c 0.029,-0.463 0.188,-2.438 0.188,-2.438 l -1.656,1.031 0.188,-2.5 -1.656,1.094 c 0.031,-0.489 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.031,-0.486 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.031,-0.482 0.188,-2.531 0.188,-2.531 l -1.594,1.094 c 0.031,-0.479 0.125,-2.563 0.125,-2.563 l -1.563,1.063 c 0.029,-0.447 0.156,-2.469 0.156,-2.469 l -1.656,1.031 c 0.029,-0.46 0.188,-2.5 0.188,-2.5 l -1.625,1.063 c 0.029,-0.458 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.031,-0.471 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.031,-0.467 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.029,-0.466 0.156,-2.563 0.156,-2.563 l -1.594,1.063 c 0.028,-0.433 0.188,-2.469 0.188,-2.469 l -1.625,1.063 c 0.029,-0.445 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.029,-0.46 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.029,-0.457 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.029,-0.454 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.029,-0.451 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.029,-0.448 0.156,-2.531 0.156,-2.531 l -1.563,1.031 c 0.026,-0.417 0.156,-2.469 0.156,-2.469 l -1.656,1.094 c 0.029,-0.445 0.188,-2.531 0.188,-2.531 l -1.656,1.031 0.188,-2.5 -1.625,1.094 c 0.028,-0.441 0.156,-2.563 0.156,-2.563 l -1.594,1.094 c 0.028,-0.438 0.156,-2.531 0.156,-2.531 l -1.594,1.094 c 0.028,-0.436 0.125,-2.563 0.125,-2.563 l -1.594,1.094 c 0.026,-0.42 0.188,-2.5 0.188,-2.5 0,0 -1.251,0.802 -1.594,1.031 0.026,-0.417 0.125,-2.5 0.125,-2.5 l -1.625,1.094 c 0.028,-0.431 0.156,-2.563 0.156,-2.563 l -1.594,1.063 c 0.026,-0.413 0.156,-2.5 0.156,-2.5 l -1.469,0.938 c -0.001,0.001 -0.183,0.091 -0.188,0.094 0.026,-0.412 0.188,-2.5 0.188,-2.5 l -1.313,0.906 c -0.003,0.001 -0.334,0.18 -0.344,0.188 0.028,-0.423 0.188,-2.563 0.188,-2.563 l -1.188,0.813 c -0.003,0.001 -0.389,0.27 -0.406,0.281 0.026,-0.409 0.188,-2.5 0.188,-2.5 l -1.094,0.719 c -0.004,0.003 -0.533,0.356 -0.563,0.375 0.026,-0.42 0.188,-2.563 0.188,-2.563 l -1,0.656 -0.625,0.406 c 0.026,-0.404 0.188,-2.5 0.188,-2.5 l -0.875,0.531 c -0.006,0.004 -0.727,0.464 -0.781,0.5 0.026,-0.403 0.188,-2.5 0.188,-2.5 l -0.719,0.5 c -0.007,0.004 -0.865,0.546 -0.938,0.594 0.026,-0.415 0.188,-2.563 0.188,-2.563 l -0.594,0.406 -1.031,0.688 c 0.026,-0.412 0.156,-2.563 0.156,-2.563 l -0.438,0.344 c -0.009,0.006 -1.048,0.646 -1.156,0.719 0.025,-0.384 0.188,-2.469 0.188,-2.469 l -0.344,0.219 c -0.01,0.006 -1.147,0.753 -1.281,0.844 0.025,-0.396 0.156,-2.531 0.156,-2.531 l -0.25,0.156 c -0.01,0.007 -1.219,0.803 -1.375,0.906 0.025,-0.393 0.188,-2.5 0.188,-2.5 0,0 -0.155,0.092 -0.156,0.094 l -1.5,1 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 -0.066,0.044 -4.618,3.085 -8.469,5.656 0.022,-0.327 0.125,-2.281 0.125,-2.281 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.594,1.031 c 0.025,-0.379 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.188,-2.531 0.188,-2.531 l -1.594,1.031 c 0.025,-0.379 0.156,-2.469 0.156,-2.469 l -1.625,1.125 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 0.188,-2.531 -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.025,-0.378 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.025,-0.378 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.026,-0.406 0.156,-2.563 0.156,-2.563 l -1.625,1.125 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.188,-2.531 0.188,-2.531 l -1.625,1.031 c 0.025,-0.378 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.026,-0.406 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.625,1.094 0.188,-2.563 -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.025,-0.378 0.188,-2.469 0.188,-2.469 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.594,1.063 c 0.025,-0.378 0.188,-2.469 0.188,-2.469 L 331,63.309 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.188,-2.531 0.188,-2.531 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.594,1.031 c 0.025,-0.378 0.188,-2.469 0.188,-2.469 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.625,1.094 c 0.026,-0.406 0.156,-2.531 0.156,-2.531 l -1.625,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.594,1.031 c 0.025,-0.379 0.156,-2.438 0.156,-2.438 l -1.625,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 l -1.656,1.094 c 0.026,-0.406 0.188,-2.563 0.188,-2.563 v -0.125 m -146.03,137.09 -0.656,0.781 1.875,0.063 c -1.963,0.382 -3.904,0.796 -5.844,1.25 1.515,-0.721 3.078,-1.417 4.625,-2.094 m 1.094,1.563 -0.125,0.531 -0.156,0.156 h 0.094 l -0.125,0.438 c -1.357,0.277 -2.718,0.558 -4.063,0.875 1.449,-0.692 2.905,-1.362 4.375,-2 m -0.719,2.469 -0.188,0.594 c -0.687,0.153 -1.378,0.275 -2.063,0.438 0.746,-0.356 1.5,-0.685 2.25,-1.031 m 245.66,76.34 c 0.112,0.004 1.253,0.021 1.5,0.031 l -0.375,0.438 c -0.508,-0.203 -0.589,-0.254 -1.125,-0.469"
-     inkscape:connector-curvature="0"
-     id="path249"
-     style="fill-opacity:0.23500001;fill-rule:evenodd" />
-  <g
-     transform="translate(-0.23,5.293)"
-     id="g251">
-    <path
-       d="m 168.44,170.71 -0.365,0.046 c -70.19,12.03 -123.56,73.21 -123.56,146.82 0,82.25 66.66,148.92 148.92,148.92 73.54,0 134.6,-53.3 146.73,-123.38 0.013,-0.032 0.033,-0.06 0.046,-0.091 h -0.046 c 0.009,-0.047 0.038,-0.089 0.046,-0.137 l -1.231,-0.319 c -0.018,0.045 -0.028,0.092 -0.046,0.137 -19.445,48.01 -66.47,81.87 -121.46,81.87 -72.37,0 -131.04,-58.67 -131.04,-131.04 0,-55.04 33.926,-102.1 82.01,-121.51 l 0.912,-0.365 -0.684,-0.684 v -0.046 l -0.228,-0.228"
-       inkscape:connector-curvature="0"
-       id="path253"
-       style="color:#000000;fill:#ffffff;fill-rule:evenodd" />
-    <use
-       transform="matrix(1.29368,0,0,1.29368,-135.14,-75.04)"
-       id="use255"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       xlink:href="#0" />
-    <use
-       transform="matrix(1.29368,0,0,1.29368,88.33,-29.3)"
-       id="use257"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       xlink:href="#0" />
-    <use
-       transform="matrix(1.29368,0,0,1.29368,-5.758,-111.63)"
-       id="use259"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       xlink:href="#0" />
-    <use
-       transform="matrix(1.29368,0,0,1.29368,128.84,93.53)"
-       id="use261"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       xlink:href="#0" />
-    <use
-       transform="matrix(1.29368,0,0,1.29368,-41.05,20.352)"
-       id="use263"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       xlink:href="#0" />
-  </g>
+ </g>
+ <text id="text205" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="291.97" x="202.12" font-family="Arial"/>
+ <text id="text207" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="79.769997" x="601.48999" font-family="Gentium Book Basic">
+  <tspan id="tspan209" y="79.769997" x="601.48999"/>
+ </text>
+ <text id="text211" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-29.07" x="346.97" font-family="Arial"/>
+ <text id="text213" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-101.49" x="-470.09" font-family="Gentium Book Basic">
+  <tspan id="tspan215" y="-101.49" x="-470.09"/>
+ </text>
+ <text id="text217" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-756.41998" x="79.929001" font-family="Arial"/>
+ <text id="text219" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-317.95999" x="627.96002" font-family="Gentium Book Basic">
+  <tspan id="tspan221" y="-317.95999" x="627.96002"/>
+ </text>
+ <text id="text223" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1625.09" x="353.57001" font-family="Arial"/>
+ <text id="text225" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-397.95999" x="1209.23" font-family="Gentium Book Basic">
+  <tspan id="tspan227" y="-397.95999" x="1209.23"/>
+ </text>
+ <text id="text229" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1946.12" x="498.42001" font-family="Arial"/>
+ <text id="text231" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-870.35999" x="820.10999" font-family="Gentium Book Basic">
+  <tspan id="tspan233" y="-870.35999" x="820.10999"/>
+ </text>
+ <text id="text235" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3841.77" x="401.45001" font-family="Arial"/>
+ <text id="text237" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-950.37" x="1401.37" font-family="Gentium Book Basic">
+  <tspan id="tspan239" y="-950.37" x="1401.37"/>
+ </text>
+ <text id="text241" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4162.8101" x="546.29999" font-family="Arial"/>
+ <text id="text243" style="word-spacing:0;letter-spacing:0" font-size="208.33px" line-height="125%" y="464.35001" x="-431.42999" font-family="Gentium Book Basic">
+  <tspan id="tspan245" y="464.35001" x="-431.42999"/>
+ </text>
+ <path id="path247" d="m0 261.09v224.91c0 14.397 11.603 26 26 26h460c14.397 0 26-11.603 26-26v-81.12c-22.503-14.04-37.886-24.672-40.938-29.25-15.01-22.514-93.81-63.803-146.34-78.81-52.53-15.01-236.38-7.462-281.41-18.719-7.891-1.973-23.355-8.215-43.31-17" fill="#19171c"/>
+ <path id="path249" fill-opacity="0.235" d="m310.72 40.22-24.344 16.219-27.19-10.813c0.061 0.219 7.938 28.19 7.938 28.19-0.144 0.174-18.688 22.5-18.688 22.5 0.02 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.02 0.001 2.192 0.075 2.625 0.094-0.13 0.156-1.156 1.344-1.156 1.344 0.02 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.019 0.001 2.093 0.076 2.5 0.094-0.121 0.144-1.094 1.313-1.094 1.313 0.02 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.019 0.002 2.16 0.075 2.594 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.019 0.001 2.192 0.075 2.625 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.019 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.125 1.344-1.125 1.344 0.019 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.019 0.001 2.094 0.076 2.5 0.094-0.121 0.144-1.094 1.313-1.094 1.313 0.019 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.019 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.019 0.001 2.16 0.075 2.594 0.094l-1.125 1.375c0.019 0.001 2.16 0.075 2.594 0.094l-1.125 1.375c0.019 0.001 2.16 0.043 2.594 0.063l-1.156 1.375c0.017 0.001 2.125 0.076 2.531 0.094l-1.094 1.344c0.019 0.001 2.16 0.044 2.594 0.063-0.13 0.156-1.156 1.375-1.156 1.375 0.019 0.001 2.192 0.075 2.625 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.019 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.017 0.001 2.16 0.075 2.594 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.017 0.001 2.192 0.044 2.625 0.063-0.13 0.156-1.156 1.375-1.156 1.375 0.017 0.001 2.094 0.076 2.5 0.094-0.121 0.146-1.094 1.344-1.094 1.344h0.063c0.017 0.001 2.142 0.045 2.563 0.063-0.13 0.156-1.156 1.375-1.156 1.375 0.017 0.001 2.162 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.017 0.001 2.162 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.017 0.001 2.162 0.075 2.594 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.017 0 2.162 0.043 2.594 0.063-0.13 0.156-1.125 1.375-1.125 1.375 0.017 0 2.162 0.075 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.016 0 2.094 0.076 2.5 0.094l-1.094 1.313c0.017 0 2.162 0.075 2.594 0.094l-1.125 1.375c0.017 0 2.162 0.075 2.594 0.094l-1.156 1.375c0.017 0 2.162 0.075 2.594 0.094l-1.125 1.375c0.017 0 2.162 0.044 2.594 0.063l-1.125 1.375c0.017 0 2.162 0.075 2.594 0.094l-1.156 1.375c0.016 0 2.127 0.076 2.531 0.094l-1.094 1.313c0.016 0 2.162 0.075 2.594 0.094l-1.156 1.375c0.016 0 2.193 0.075 2.625 0.094l-1.156 1.375c0.016 0 2.162 0.075 2.594 0.094l-1.125 1.375c0.016 0 2.162 0.075 2.594 0.094l-1.125 1.345c0.016 0 2.162 0.075 2.594 0.094l-1.156 1.375c0.016 0 2.096 0.076 2.5 0.094-0.121 0.144-1.094 1.313-1.094 1.313 0.016 0 2.193 0.075 2.625 0.094l-1.156 1.375c0.016 0 2.162 0.075 2.594 0.094l-1.125 1.375c0.016 0 2.163 0.075 2.594 0.094l-1.125 1.375c0.016 0 2.163 0.075 2.594 0.094l-1.156 1.344c0.016 0 2.163 0.075 2.594 0.094l-1.125 1.375c0.016 0 2.163 0.075 2.594 0.094l-1.125 1.375c0.015 0 2.096 0.076 2.5 0.094l-1.094 1.313c0.016 0 2.163 0.075 2.594 0.094l-1.125 1.375c0.015 0 2.163 0.075 2.594 0.094l-1.156 1.376c0.015 0 2.194 0.075 2.625 0.094l-1.156 1.344c0.015 0 2.163 0.075 2.594 0.094l-1.125 1.375c0.015 0 2.163 0.075 2.594 0.094l-1.156 1.375c0.015 0 2.128 0.076 2.531 0.094l-1.094 1.313c0.015 0 2.163 0.075 2.594 0.094l-1.156 1.375c0.015 0 2.194 0.075 2.625 0.094-0.13 0.156-1.156 1.375-1.156 1.375 0.015 0 2.163 0.075 2.594 0.094-0.13 0.156-1.125 1.344-1.125 1.344 0.015 0 2.163 0.075 2.594 0.094l-1.125 1.375c0.015 0 2.163 0.076 2.594 0.094l-1.156 1.375c0.013 0 2.128 0.076 2.531 0.094l-1.094 1.313c0.015 0 2.163 0.076 2.594 0.094l-1.156 1.375c0.015 0 2.163 0.076 2.594 0.094l-1.125 1.375c0.015 0 2.163 0.076 2.594 0.094l-1.125 1.344c0.013 0 2.163 0.076 2.594 0.094l-1.156 1.375c0.013 0 2.194 0.076 2.625 0.094l-1.156 1.375c0.013 0 2.097 0.076 2.5 0.094l-1.094 1.313h0.063c0.013 0 2.145 0.076 2.563 0.094l-1.156 1.375c0.013 0 2.165 0.076 2.594 0.094l-1.125 1.375c0.013 0 2.165 0.076 2.594 0.094l-1.156 1.344c0.013 0 2.196 0.076 2.625 0.094l-1.156 1.375c0.013 0 2.165 0.076 2.594 0.094l-1.125 1.375c0.013 0 2.165 0.076 2.594 0.094l-1.125 1.375c0.013 0 2.097 0.076 2.5 0.094l-1.094 1.313c0.013 0 2.165 0.076 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.013 0 2.165 0.076 2.594 0.094l-1.156 1.344c0.013 0 2.165 0.076 2.594 0.094l-1.125 1.375c0.013 0 2.165 0.076 2.594 0.094l-1.125 1.375c0.013 0 2.165 0.076 2.594 0.094l-1.156 1.375c0.012 0 2.13 0.076 2.531 0.094l-1.094 1.313c0.012 0 2.165 0.076 2.594 0.094l-1.156 1.375c0.012 0 2.165 0.076 2.594 0.094l-1.125 1.344c0.012 0 2.165 0.076 2.594 0.094l-1.125 1.375c0.012 0 2.165 0.076 2.594 0.094l-1.156 1.375c0.012 0 2.196 0.076 2.625 0.094l-1.156 1.375c0.012 0 2.099 0.076 2.5 0.094l-1.094 1.313c0.012 0 2.196 0.076 2.625 0.094l-1.156 1.375c0.012 0 2.165 0.076 2.594 0.094l-1.125 1.344c0.012 0 2.166 0.076 2.594 0.094l-1.125 1.375c0.012 0 2.166 0.076 2.594 0.094l-1.156 1.375c0.012 0 2.166 0.076 2.594 0.094-0.13 0.156-1.125 1.375-1.125 1.375 0.012 0 2.166 0.076 2.594 0.094l-1.125 1.344c0.01 0 2.099 0.076 2.5 0.094l-1.094 1.344c0.01 0 2.166 0.076 2.594 0.094l-1.125 1.344c0.01 0 2.166 0.076 2.594 0.094l-1.156 1.375c0.01 0 2.166 0.076 2.594 0.094l-1.125 1.375c0.01 0 2.166 0.076 2.594 0.094l-1.125 1.375c0.01 0 2.166 0.076 2.594 0.094l-1.156 1.344c0.01 0 2.131 0.076 2.531 0.094l-1.094 1.346c0.01 0 2.166 0.076 2.594 0.094l-1.156 1.344c0.01 0 2.197 0.076 2.625 0.094l-1.156 1.375c0.01 0 2.166 0.076 2.594 0.094l-1.125 1.375c0.01 0 2.166 0.076 2.594 0.094l-1.156 1.375c0.01 0 2.197 0.076 2.625 0.094l-1.156 1.344c0.009 0 2.1 0.076 2.5 0.094l-1.094 1.344c0.01 0 2.197 0.076 2.625 0.094l-1.156 1.344 2.594 0.094-1.125 1.375c0.01 0 2.166 0.076 2.594 0.094l-1.125 1.375c0.009 0 2.166 0.076 2.594 0.094l-1.156 1.375c0.009 0 2.166 0.076 2.594 0.094l-1.125 1.375c0.009 0 2.1 0.045 2.5 0.063l-1.094 1.344h0.063c0.009 0 2.117 0.076 2.531 0.094l-0.906 1.094c-7.749-3.094-16.06-6.438-16.06-6.438 0.061 0.219 7.938 28.19 7.938 28.19-0.066 0.079-4.21 5.145-8.344 10.125 0.001-0.017 0-0.281 0-0.281l-1.625 1.094c0.07-1.098 0.188-2.531 0.188-2.531l-1.656 1.094c0.069-1.079 0.188-2.563 0.188-2.563l-1.656 1.094c0.069-1.07 0.188-2.563 0.188-2.563l-1.625 1.094c0.069-1.063 0.188-2.563 0.188-2.563l-1.625 1.063c0.064-0.994 0.188-2.469 0.188-2.469l-1.625 1.094c0.067-1.044 0.188-2.563 0.188-2.563l-1.656 1.094c0.066-1.036 0.188-2.531 0.188-2.531l-1.656 1.094c0.066-1.019 0.188-2.563 0.188-2.563l-1.625 1.094c0.064-1.01 0.156-2.563 0.156-2.563l-1.625 1.094c0.064-1 0.188-2.531 0.188-2.531l-1.594 1.031c0.06-0.937 0.156-2.469 0.156-2.469l-1.625 1.094c0.063-0.985 0.188-2.531 0.188-2.531l-1.656 1.094c0.063-0.978 0.188-2.563 0.188-2.563l-1.625 1.094c0.061-0.963 0.156-2.563 0.156-2.563l-1.625 1.094c0.061-0.955 0.188-2.531 0.188-2.531l-1.594 1.031c0.058-0.918 0.125-2.5 0.125-2.5l-1.656 1.094c0.06-0.933 0.188-2.563 0.188-2.563l-1.594 1.063c0.055-0.876 0.188-2.469 0.188-2.469l-1.656 1.094c0.06-0.924 0.188-2.563 0.188-2.563l-1.625 1.094c0.058-0.911 0.188-2.563 0.188-2.563l-1.656 1.094c0.058-0.903 0.188-2.531 0.188-2.531l-1.594 1.031c0.055-0.867 0.125-2.5 0.125-2.5l-1.594 1.094c0.057-0.882 0.125-2.563 0.125-2.563l-1.594 1.063c0.053-0.829 0.188-2.469 0.188-2.469l-1.625 1.094c0.055-0.876 0.156-2.563 0.156-2.563l-1.625 1.094 0.188-2.531-1.656 1.094c0.055-0.855 0.188-2.563 0.188-2.563l-1.625 1.094c0.054-0.849 0.156-2.563 0.156-2.563l-1.625 1.094c0.054-0.838 0.188-2.531 0.188-2.531l-1.594 1.031c0.05-0.785 0.156-2.469 0.156-2.469l-1.625 1.094c0.053-0.825 0.188-2.531 0.188-2.531l-1.656 1.094c0.053-0.819 0.188-2.563 0.188-2.563l-1.656 1.094c0.053-0.813 0.188-2.563 0.188-2.563l-1.625 1.094c0.051-0.803 0.188-2.563 0.188-2.563l-1.656 1.125c0.051-0.797 0.188-2.563 0.188-2.563l-1.656 1.094c0.051-0.791 0.188-2.563 0.188-2.563l-1.594 1.063c0.047-0.736 0.188-2.469 0.188-2.469l-1.656 1.094c0.05-0.779 0.188-2.563 0.188-2.563l-1.625 1.094c0.05-0.774 0.188-2.563 0.188-2.563l-1.656 1.094c0.05-0.763 0.188-2.531 0.188-2.531l-1.594 1.031c0.047-0.733 0.125-2.5 0.125-2.5l-1.625 1.094c0.048-0.753 0.156-2.563 0.156-2.563l-1.594 1.063c0.045-0.701 0.188-2.469 0.188-2.469l-1.625 1.094c0.048-0.743 0.156-2.563 0.156-2.563l-1.625 1.094c0.047-0.737 0.188-2.531 0.188-2.531l-1.656 1.094 0.188-2.563-1.656 1.094c0.047-0.724 0.188-2.563 0.188-2.563l-1.625 1.094c0.047-0.718 0.188-2.563 0.188-2.563l-1.594 1.063c0.042-0.668 0.156-2.469 0.156-2.469l-1.625 1.094c0.045-0.709 0.188-2.531 0.188-2.531l-1.656 1.094c0.045-0.705 0.188-2.563 0.188-2.563l-1.656 1.094c0.045-0.696 0.188-2.563 0.188-2.563l-1.625 1.094c0.044-0.692 0.188-2.563 0.188-2.563l-1.656 1.094c0.044-0.687 0.188-2.531 0.188-2.531l-1.594 1.031c0.041-0.639 0.188-2.469 0.188-2.469l-1.656 1.094c0.044-0.679 0.188-2.531 0.188-2.531l-1.656 1.094c0.044-0.674 0.188-2.563 0.188-2.563l-1.625 1.094c0.042-0.667 0.156-2.563 0.156-2.563l-1.625 1.094c0.042-0.663 0.188-2.531 0.188-2.531l-1.656 1.094c0.042-0.658 0.188-2.563 0.188-2.563l-1.656 1.094c0.042-0.651 0.188-2.563 0.188-2.563l-1.594 1.063c0.039-0.609 0.188-2.469 0.188-2.469l-1.625 1.094c0.041-0.647 0.156-2.563 0.156-2.563l-1.625 1.094c0.041-0.639 0.188-2.531 0.188-2.531l-1.656 1.094c0.041-0.635 0.188-2.563 0.188-2.563l-1.656 1.094c0.041-0.629 0.188-2.563 0.188-2.563l-1.625 1.094c0.039-0.625 0.188-2.563 0.188-2.563l-1.625 1.063c0.038-0.584 0.188-2.469 0.188-2.469l-1.625 1.094c0.039-0.617 0.188-2.563 0.188-2.563l-1.656 1.094c0.039-0.613 0.188-2.531 0.188-2.531l-1.656 1.094c0.039-0.61 0.188-2.563 0.188-2.563l-1.625 1.094c0.039-0.604 0.156-2.563 0.156-2.563l-1.625 1.094c0.038-0.6 0.188-2.531 0.188-2.531l-1.594 1.031c0.036-0.56 0.156-2.469 0.156-2.469l-1.625 1.094c0.038-0.594 0.188-2.531 0.188-2.531l-1.656 1.094c0.038-0.59 0.188-2.563 0.188-2.563l-1.625 1.094c0.038-0.587 0.156-2.563 0.156-2.563l-1.625 1.094c0.038-0.581 0.188-2.531 0.188-2.531l-1.656 1.094c0.036-0.578 0.188-2.563 0.188-2.563l-1.656 1.094c0.036-0.575 0.188-2.563 0.188-2.563l-1.594 1.063c0.034-0.534 0.188-2.469 0.188-2.469l-1.656 1.094c0.036-0.569 0.188-2.563 0.188-2.563l-1.594 1.094c0.036-0.565 0.156-2.563 0.156-2.563l-1.656 1.125c0.036-0.56 0.188-2.563 0.188-2.563l-1.594 1.094c0.035-0.556 0.125-2.563 0.125-2.563l-1.594 1.094c0.035-0.553 0.125-2.563 0.125-2.563l-1.531 1.063c0.034-0.514 0.125-2.469 0.125-2.469l-1.625 1.094c0.035-0.549 0.188-2.563 0.188-2.563l-1.656 1.094c0.035-0.546 0.188-2.531 0.188-2.531l-1.594 1.094c0.035-0.539 0.125-2.563 0.125-2.563l-1.625 1.094c0.035-0.537 0.156-2.563 0.156-2.563l-1.625 1.094c0.034-0.534 0.188-2.531 0.188-2.531l-1.594 1.031c0.032-0.498 0.156-2.469 0.156-2.469l-1.625 1.094c0.034-0.53 0.188-2.531 0.188-2.531l-1.656 1.094c0.034-0.527 0.188-2.563 0.188-2.563l-1.656 1.094c0.034-0.523 0.188-2.563 0.188-2.563l-1.625 1.094c0.034-0.52 0.188-2.563 0.188-2.563l-1.656 1.125c0.034-0.515 0.188-2.563 0.188-2.563l-1.594 1.031c0.031-0.48 0.188-2.438 0.188-2.438l-1.656 1.094c0.032-0.511 0.188-2.563 0.188-2.563l-1.656 1.031c0.032-0.49 0.188-2.5 0.188-2.5l-1.625 1.094c0.032-0.505 0.188-2.563 0.188-2.563l-1.656 1.094c0.032-0.502 0.188-2.531 0.188-2.531l-1.656 1.094c0.032-0.498 0.188-2.563 0.188-2.563l-1.625 1.094c0.032-0.496 0.156-2.563 0.156-2.563l-1.594 1.063c0.029-0.463 0.188-2.469 0.188-2.469l-1.625 1.094 0.156-2.563-1.625 1.094c0.031-0.489 0.188-2.531 0.188-2.531l-1.656 1.094c0.031-0.486 0.188-2.563 0.188-2.563l-1.656 1.094c0.031-0.482 0.188-2.563 0.188-2.563l-1.594 1.094c0.031-0.479 0.156-2.531 0.156-2.531l-1.563 1.031c0.029-0.447 0.125-2.469 0.125-2.469l-1.625 1.063c0.029-0.46 0.188-2.5 0.188-2.5l-1.656 1.031c0.029-0.458 0.188-2.5 0.188-2.5l-1.656 1.094c0.031-0.471 0.188-2.563 0.188-2.563l-1.625 1.094c0.031-0.467 0.188-2.563 0.188-2.563l-1.656 1.094c0.029-0.466 0.188-2.531 0.188-2.531l-1.594 1.031c0.028-0.433 0.188-2.469 0.188-2.469l-1.656 1.063c0.029-0.445 0.188-2.5 0.188-2.5l-1.656 1.094c0.029-0.46 0.188-2.563 0.188-2.563l-1.625 1.094c0.029-0.457 0.156-2.563 0.156-2.563l-1.625 1.094c0.029-0.454 0.188-2.531 0.188-2.531l-1.656 1.094c0.029-0.451 0.188-2.563 0.188-2.563l-1.594 1.094c0.029-0.448 0.125-2.563 0.125-2.563l-1.594 1.094c0.028-0.432 0.188-2.5 0.188-2.5l-1.625 1.094c0.029-0.445 0.156-2.563 0.156-2.563l-1.625 1.063 0.188-2.5-1.656 1.094c0.028-0.441 0.188-2.563 0.188-2.563l-1.594 1.094c0.028-0.438 0.125-2.563 0.125-2.563l-1.625 1.094c0.028-0.436 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.42 0.188-2.5 0.188-2.5l-1.594 1.063c0.026-0.417 0.156-2.531 0.156-2.531l-1.656 1.125c0.028-0.431 0.188-2.563 0.188-2.563l-1.594 1.031c0.026-0.413 0.125-2.5 0.125-2.5l-1.469 0.969c-0.001 0.001-0.152 0.091-0.156 0.094 0.026-0.412 0.156-2.531 0.156-2.531l-1.313 0.938c-0.003 0.001-0.302 0.149-0.313 0.156 0.028-0.423 0.188-2.531 0.188-2.531l-1.188 0.813c-0.003 0.001-0.389 0.27-0.406 0.281 0.026-0.409 0.188-2.531 0.188-2.531l-1.125 0.75-0.531 0.344c0.026-0.42 0.188-2.531 0.188-2.531l-1 0.625c-0.004 0.003-0.618 0.381-0.656 0.406 0.026-0.404 0.188-2.5 0.188-2.5l-0.875 0.563c-0.006 0.004-0.727 0.464-0.781 0.5 0.026-0.403 0.188-2.531 0.188-2.531l-0.719 0.5-0.906 0.594c0.026-0.415 0.188-2.531 0.188-2.531l-0.594 0.406c-0.009 0.006-0.968 0.625-1.063 0.688 0.026-0.412 0.188-2.563 0.188-2.563l-0.469 0.313c-0.009 0.006-1.017 0.647-1.125 0.719 0.025-0.384 0.188-2.438 0.188-2.438l-0.375 0.219-1.281 0.813c0.025-0.396 0.188-2.5 0.188-2.5l-0.281 0.125c-0.01 0.007-1.22 0.834-1.375 0.938 0.025-0.393 0.188-2.531 0.188-2.531s-0.124 0.092-0.125 0.094c-0.012 0.007-1.316 0.876-1.5 1 0.026-0.406 0.188-2.531 0.188-2.531-0.188 0.127-24.375 16.281-24.375 16.281-0.21-0.085-27.19-10.875-27.19-10.875 0.061 0.219 7.938 28.19 7.938 28.19-0.144 0.175-18.688 22.531-18.688 22.531 0.02 0.001 2.16 0.076 2.594 0.094-0.13 0.156-1.156 1.375-1.156 1.375h0.156c0.019 0.001 2.075 0.078 2.469 0.094-0.13 0.156-1.156 1.375-1.156 1.375h0.281l2.313 0.094c-0.131 0.158-1.125 1.375-1.125 1.375h0.406c0.016 0 1.799 0.082 2.094 0.094-0.123 0.147-1.094 1.313-1.094 1.313l0.594 0.031c0.015 0 1.707 0.083 1.969 0.094-0.123 0.149-1.094 1.344-1.094 1.344s0.717 0.031 0.719 0.031c0.015 0 1.615 0.084 1.844 0.094-0.124 0.149-1.094 1.313-1.094 1.313s0.842 0.063 0.844 0.063c0.013 0 1.541 0.024 1.75 0.031-0.133 0.161-1.156 1.375-1.156 1.375s0.999 0.031 1 0.031c0.012 0 1.445 0.055 1.625 0.063-0.134 0.162-1.156 1.375-1.156 1.375l1.156 0.031c0.012 0 1.286 0.057 1.438 0.063-0.134 0.162-1.125 1.344-1.125 1.344s1.28 0.063 1.281 0.063c0.01 0 1.106 0.027 1.219 0.031-0.126 0.152-1.094 1.344-1.094 1.344s1.467 0.094 1.469 0.094c0.009 0 1 0.028 1.094 0.031-0.127 0.152-1.094 1.313-1.094 1.313s1.592 0.094 1.594 0.094c0.007 0 0.899 0.06 0.969 0.063-0.127 0.153-1.125 1.313-1.125 1.313s1.749 0.092 1.75 0.094c0.006 0 0.758 0.03 0.813 0.031l-1.094 1.344s1.875 0.092 1.875 0.094c0.006 0 0.65 0.03 0.688 0.031l-1.094 1.313 2.063 0.094c0.004 0 0.478-0.001 0.5 0l-1.094 1.375s2.186 0.063 2.188 0.063h0.344l-1.125 1.344s2.374 0.094 2.375 0.094h0.219c-0.14 0.169-1.125 1.375-1.125 1.375s2.499 0.094 2.5 0.094h0.094c-0.14 0.169-1.156 1.375-1.156 1.375s2.537 0.089 2.625 0.094c-0.142 0.171-1.156 1.375-1.156 1.375s2.277 0.081 2.594 0.094c-0.142 0.171-1.125 1.344-1.125 1.344s2.089 0.073 2.594 0.094c-0.143 0.172-1.156 1.375-1.156 1.375s1.793 0.065 2.531 0.094c-0.134 0.162-1.094 1.313-1.094 1.313s1.778 0.062 2.594 0.094c-0.144 0.174-1.156 1.375-1.156 1.375s1.711 0.057 2.625 0.094c-0.146 0.175-1.156 1.375-1.156 1.375s1.598 0.054 2.594 0.094c-0.146 0.175-1.125 1.375-1.125 1.375s1.531 0.051 2.594 0.094c-0.147 0.177-1.125 1.344-1.125 1.344l2.594 0.094c-0.147 0.178-1.156 1.375-1.156 1.375l2.594 0.094c-0.149 0.178-1.125 1.375-1.125 1.375l2.5 0.094-1.094 1.313 2.594 0.094-1.125 1.375 1.875 0.031c-68.48 13.13-120.19 73.35-120.19 145.66v0.031c0 40.955 16.604 77.981 43.44 104.81 0.482 0.495 0.95 0.981 1.438 1.469 0.356 0.346 0.703 0.719 1.063 1.063 0.13 0.13 0.214 0.276 0.344 0.406 0.162 0.158 0.368 0.281 0.531 0.438l-0.375 1.188 80.25 80.25h315.03c14.397 0 26-11.603 26-26v-255.69l-1.406 0.938c0.038-0.6 0.188-2.563 0.188-2.563l-1.594 1.063c0.036-0.56 0.188-2.469 0.188-2.469l-1.656 1.094c0.038-0.594 0.188-2.563 0.188-2.563l-1.625 1.094c0.038-0.59 0.188-2.563 0.188-2.563l-1.656 1.094c0.038-0.587 0.188-2.531 0.188-2.531l-1.656 1.094c0.038-0.581 0.188-2.563 0.188-2.563l-1.625 1.094c0.036-0.578 0.156-2.563 0.156-2.563l-1.625 1.094c0.036-0.575 0.188-2.531 0.188-2.531l-1.563 1.031c0.034-0.533 0.156-2.469 0.156-2.469l-1.656 1.094c0.036-0.568 0.188-2.531 0.188-2.531l-1.656 1.094c0.036-0.565 0.188-2.563 0.188-2.563l-1.625 1.094c0.036-0.56 0.156-2.563 0.156-2.563l-1.625 1.094c0.035-0.558 0.188-2.531 0.188-2.531l-1.594 1.094c0.035-0.553 0.125-2.563 0.125-2.563l-1.563 1.031c0.034-0.514 0.156-2.438 0.156-2.438l-1.656 1.094c0.035-0.549 0.188-2.563 0.188-2.563l-1.656 1.094c0.035-0.546 0.188-2.563 0.188-2.563l-1.594 1.094c0.035-0.539 0.156-2.563 0.156-2.563l-1.656 1.125c0.035-0.537 0.188-2.563 0.188-2.563l-1.656 1.094c0.034-0.534 0.188-2.563 0.188-2.563l-1.594 1.063c0.032-0.498 0.188-2.469 0.188-2.469l-1.656 1.094c0.034-0.53 0.188-2.563 0.188-2.563l-1.625 1.094c0.034-0.527 0.188-2.563 0.188-2.563l-1.656 1.094c0.034-0.523 0.188-2.531 0.188-2.531l-1.656 1.094c0.034-0.52 0.188-2.563 0.188-2.563l-1.66 1.91c0.034-0.515 0.156-2.563 0.156-2.563l-1.594 1.063c0.031-0.48 0.188-2.469 0.188-2.469l-1.625 1.094c0.032-0.511 0.156-2.563 0.156-2.563l-1.625 1.094c0.032-0.506 0.188-2.531 0.188-2.531l-1.656 1.094c0.032-0.505 0.188-2.563 0.188-2.563l-1.656 1.094c0.032-0.502 0.188-2.563 0.188-2.563l-1.625 1.094c0.032-0.498 0.188-2.563 0.188-2.563l-1.656 1.125c0.032-0.496 0.188-2.563 0.188-2.563l-1.594 1.031c0.029-0.463 0.188-2.438 0.188-2.438l-1.656 1.031 0.188-2.5-1.656 1.094c0.031-0.489 0.188-2.563 0.188-2.563l-1.625 1.094c0.031-0.486 0.188-2.563 0.188-2.563l-1.656 1.094c0.031-0.482 0.188-2.531 0.188-2.531l-1.594 1.094c0.031-0.479 0.125-2.563 0.125-2.563l-1.563 1.063c0.029-0.447 0.156-2.469 0.156-2.469l-1.656 1.031c0.029-0.46 0.188-2.5 0.188-2.5l-1.625 1.063c0.029-0.458 0.156-2.531 0.156-2.531l-1.625 1.094c0.031-0.471 0.188-2.531 0.188-2.531l-1.656 1.094c0.031-0.467 0.188-2.563 0.188-2.563l-1.625 1.094c0.029-0.466 0.156-2.563 0.156-2.563l-1.594 1.063c0.028-0.433 0.188-2.469 0.188-2.469l-1.625 1.063c0.029-0.445 0.156-2.531 0.156-2.531l-1.625 1.094c0.029-0.46 0.188-2.531 0.188-2.531l-1.656 1.094c0.029-0.457 0.188-2.563 0.188-2.563l-1.656 1.094c0.029-0.454 0.188-2.563 0.188-2.563l-1.625 1.094c0.029-0.451 0.188-2.563 0.188-2.563l-1.625 1.094c0.029-0.448 0.156-2.531 0.156-2.531l-1.563 1.031c0.026-0.417 0.156-2.469 0.156-2.469l-1.656 1.094c0.029-0.445 0.188-2.531 0.188-2.531l-1.656 1.031 0.188-2.5-1.625 1.094c0.028-0.441 0.156-2.563 0.156-2.563l-1.594 1.094c0.028-0.438 0.156-2.531 0.156-2.531l-1.594 1.094c0.028-0.436 0.125-2.563 0.125-2.563l-1.594 1.094c0.026-0.42 0.188-2.5 0.188-2.5s-1.251 0.802-1.594 1.031c0.026-0.417 0.125-2.5 0.125-2.5l-1.625 1.094c0.028-0.431 0.156-2.563 0.156-2.563l-1.594 1.063c0.026-0.413 0.156-2.5 0.156-2.5l-1.469 0.938c-0.001 0.001-0.183 0.091-0.188 0.094 0.026-0.412 0.188-2.5 0.188-2.5l-1.313 0.906c-0.003 0.001-0.334 0.18-0.344 0.188 0.028-0.423 0.188-2.563 0.188-2.563l-1.188 0.813c-0.003 0.001-0.389 0.27-0.406 0.281 0.026-0.409 0.188-2.5 0.188-2.5l-1.094 0.719c-0.004 0.003-0.533 0.356-0.563 0.375 0.026-0.42 0.188-2.563 0.188-2.563l-1 0.656-0.625 0.406c0.026-0.404 0.188-2.5 0.188-2.5l-0.875 0.531c-0.006 0.004-0.727 0.464-0.781 0.5 0.026-0.403 0.188-2.5 0.188-2.5l-0.719 0.5c-0.007 0.004-0.865 0.546-0.938 0.594 0.026-0.415 0.188-2.563 0.188-2.563l-0.594 0.406-1.031 0.688c0.026-0.412 0.156-2.563 0.156-2.563l-0.438 0.344c-0.009 0.006-1.048 0.646-1.156 0.719 0.025-0.384 0.188-2.469 0.188-2.469l-0.344 0.219c-0.01 0.006-1.147 0.753-1.281 0.844 0.025-0.396 0.156-2.531 0.156-2.531l-0.25 0.156c-0.01 0.007-1.219 0.803-1.375 0.906 0.025-0.393 0.188-2.5 0.188-2.5s-0.155 0.092-0.156 0.094l-1.5 1c0.026-0.406 0.188-2.563 0.188-2.563-0.066 0.044-4.618 3.085-8.469 5.656 0.022-0.327 0.125-2.281 0.125-2.281l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.188-2.531 0.188-2.531l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.594 1.031c0.025-0.379 0.188-2.469 0.188-2.469l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.625 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.188-2.531 0.188-2.531l-1.594 1.031c0.025-0.379 0.156-2.469 0.156-2.469l-1.625 1.125c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094 0.188-2.531-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.594 1.063c0.025-0.378 0.188-2.469 0.188-2.469l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.625 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.594 1.063c0.025-0.378 0.188-2.469 0.188-2.469l-1.625 1.094c0.026-0.406 0.156-2.563 0.156-2.563l-1.625 1.125c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.188-2.531 0.188-2.531l-1.625 1.031c0.025-0.378 0.188-2.469 0.188-2.469l-1.625 1.094c0.026-0.406 0.188-2.531 0.188-2.531l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.625 1.094 0.188-2.563-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.594 1.063c0.025-0.378 0.188-2.469 0.188-2.469l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.625 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.594 1.063c0.025-0.378 0.188-2.469 0.188-2.469l-1.81 1.182c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.188-2.531 0.188-2.531l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.594 1.031c0.025-0.378 0.188-2.469 0.188-2.469l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.625 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.625 1.094c0.026-0.406 0.156-2.531 0.156-2.531l-1.625 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.594 1.031c0.025-0.379 0.156-2.438 0.156-2.438l-1.625 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563l-1.656 1.094c0.026-0.406 0.188-2.563 0.188-2.563v-0.125m-146.03 137.09-0.656 0.781 1.875 0.063c-1.963 0.382-3.904 0.796-5.844 1.25 1.515-0.721 3.078-1.417 4.625-2.094m1.094 1.563-0.125 0.531-0.156 0.156h0.094l-0.125 0.438c-1.357 0.277-2.718 0.558-4.063 0.875 1.449-0.692 2.905-1.362 4.375-2m-0.719 2.469-0.188 0.594c-0.687 0.153-1.378 0.275-2.063 0.438 0.746-0.356 1.5-0.685 2.25-1.031m245.66 76.34c0.112 0.004 1.253 0.021 1.5 0.031l-0.375 0.438c-0.508-0.203-0.589-0.254-1.125-0.469" fill-rule="evenodd"/>
+ <g id="g251" transform="translate(-.23 5.293)">
+  <path id="path253" style="color:#000000" fill="#fff" d="m168.44 170.71-0.365 0.046c-70.19 12.03-123.56 73.21-123.56 146.82 0 82.25 66.66 148.92 148.92 148.92 73.54 0 134.6-53.3 146.73-123.38 0.013-0.032 0.033-0.06 0.046-0.091h-0.046c0.009-0.047 0.038-0.089 0.046-0.137l-1.231-0.319c-0.018 0.045-0.028 0.092-0.046 0.137-19.445 48.01-66.47 81.87-121.46 81.87-72.37 0-131.04-58.67-131.04-131.04 0-55.04 33.926-102.1 82.01-121.51l0.912-0.365-0.684-0.684v-0.046l-0.228-0.228" fill-rule="evenodd"/>
+  <use id="use255" xlink:href="#0" transform="matrix(1.2937 0 0 1.2937 -135.14 -75.04)" height="1" width="1" y="0" x="0"/>
+  <use id="use257" xlink:href="#0" transform="matrix(1.2937 0 0 1.2937 88.33 -29.3)" height="1" width="1" y="0" x="0"/>
+  <use id="use259" xlink:href="#0" transform="matrix(1.2937 0 0 1.2937 -5.758 -111.63)" height="1" width="1" y="0" x="0"/>
+  <use id="use261" xlink:href="#0" transform="matrix(1.2937 0 0 1.2937 128.84 93.53)" height="1" width="1" y="0" x="0"/>
+  <use id="use263" xlink:href="#0" transform="matrix(1.2937 0 0 1.2937 -41.05 20.352)" height="1" width="1" y="0" x="0"/>
+ </g>
 </svg>

@@ -1,1305 +1,344 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="100%"
-   height="100%"
-   viewBox="0 0 512 512"
-   id="svg2">
-  <metadata
-     id="metadata511">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4" />
-  <path
-     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
-     inkscape:connector-curvature="0"
-     id="path23"
-     style="fill:#ff9955" />
-  <path
-     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 H 199 C 214.383,438.55 208.774,366.4 185.88,280.94 155.377,167.1 144.51,89.67 173.85,0 H 26.01"
-     inkscape:connector-curvature="0"
-     id="path25"
-     style="fill:#1f467c" />
-  <text
-     x="-161.46001"
-     y="254.17999"
-     id="text27"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-161.46001"
-       y="254.17999"
-       id="tspan29" />
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 512 512" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata511">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path id="path23" d="m26 0c-14.397 0-26 11.603-26 26v460c0 14.397 11.603 26 26 26h460c14.397 0 26-11.603 26-26v-460c0-14.397-11.6-26-26-26h-460" fill="#f95"/>
+ <path id="path25" d="m26 0c-14.397 0-26 11.603-26 26v460c0 14.397 11.603 26 26 26h173c15.38-73.45 9.77-145.6-13.12-231.06-30.5-113.84-41.37-191.27-12.03-280.94h-147.84" fill="#1f467c"/>
+ <text id="text27" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="254.17999" x="-161.46001" font-family="Gentium Book Basic">
+  <tspan id="tspan29" y="254.17999" x="-161.46001"/>
+ </text>
+ <text id="text31" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="670.83002" x="156.84" font-family="Arial"/>
+ <text id="text33" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="174.17999" x="419.81" font-family="Gentium Book Basic">
+  <tspan id="tspan35" y="174.17999" x="419.81"/>
+ </text>
+ <text id="text37" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="349.79999" x="301.69" font-family="Arial"/>
+ <text id="text39" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-7.0780001" x="-651.77002" font-family="Gentium Book Basic">
+  <tspan id="tspan41" y="-7.0780001" x="-651.77002"/>
+ </text>
+ <text id="text43" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-377.54999" x="34.654999" font-family="Arial"/>
+ <text id="text45" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-223.55" x="446.28" font-family="Gentium Book Basic">
+  <tspan id="tspan47" y="-223.55" x="446.28"/>
+ </text>
+ <text id="text49" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1246.22" x="308.29001" font-family="Arial"/>
+ <text id="text51" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-303.56" x="1027.55" font-family="Gentium Book Basic">
+  <tspan id="tspan53" y="-303.56" x="1027.55"/>
+ </text>
+ <text id="text55" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1567.26" x="453.14001" font-family="Arial"/>
+ <text id="text57" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-775.96002" x="638.42999" font-family="Gentium Book Basic">
+  <tspan id="tspan59" y="-775.96002" x="638.42999"/>
+ </text>
+ <text id="text61" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3462.9099" x="356.17001" font-family="Arial"/>
+ <text id="text63" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-855.96002" x="1219.6899" font-family="Gentium Book Basic">
+  <tspan id="tspan65" y="-855.96002" x="1219.6899"/>
+ </text>
+ <text id="text67" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3783.9399" x="501.01999" font-family="Arial"/>
+ <g id="g69" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text71" y="558.76001" x="-613.10999" font-size="208.33px">
+   <tspan id="tspan73" y="558.76001" x="-613.10999"/>
   </text>
-  <text
-     x="156.84"
-     y="670.83002"
-     transform="scale(4.0128,0.2492)"
-     id="text31"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="419.81"
-     y="174.17999"
-     id="text33"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="419.81"
-       y="174.17999"
-       id="tspan35" />
+  <text id="text75" y="230.42" x="1473.85" font-size="129.23px">
+   <tspan id="tspan77" y="230.42" x="1473.85"/>
   </text>
-  <text
-     x="301.69"
-     y="349.79999"
-     transform="scale(4.0128,0.2492)"
-     id="text37"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-651.77002"
-     y="-7.0780001"
-     id="text39"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-651.77002"
-       y="-7.0780001"
-       id="tspan41" />
+ </g>
+ <text id="text79" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="575.47998" x="564.37" font-family="Arial"/>
+ <text id="text81" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="150.42" x="2055.1201" font-family="Gentium Book Basic">
+  <tspan id="tspan83" y="150.42" x="2055.1201"/>
+ </text>
+ <text id="text85" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="254.45" x="709.21997" font-family="Arial"/>
+ <text id="text87" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-30.84" x="983.53998" font-family="Gentium Book Basic">
+  <tspan id="tspan89" y="-30.84" x="983.53998"/>
+ </text>
+ <text id="text91" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-472.91" x="442.17999" font-family="Arial"/>
+ <text id="text93" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-247.31" x="2081.5901" font-family="Gentium Book Basic">
+  <tspan id="tspan95" y="-247.31" x="2081.5901"/>
+ </text>
+ <text id="text97" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1341.5699" x="715.82001" font-family="Arial"/>
+ <text id="text99" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-327.32001" x="2662.8601" font-family="Gentium Book Basic">
+  <tspan id="tspan101" y="-327.32001" x="2662.8601"/>
+ </text>
+ <text id="text103" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1662.61" x="860.65997" font-family="Arial"/>
+ <text id="text105" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-799.71997" x="2273.74" font-family="Gentium Book Basic">
+  <tspan id="tspan107" y="-799.71997" x="2273.74"/>
+ </text>
+ <text id="text109" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3558.26" x="763.69" font-family="Arial"/>
+ <text id="text111" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-879.71997" x="2855" font-family="Gentium Book Basic">
+  <tspan id="tspan113" y="-879.71997" x="2855"/>
+ </text>
+ <text id="text115" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3879.29" x="908.53998" font-family="Arial"/>
+ <g id="g117" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text119" y="535" x="1022.2" font-size="208.33px">
+   <tspan id="tspan121" y="535" x="1022.2"/>
   </text>
-  <text
-     x="34.654999"
-     y="-377.54999"
-     transform="scale(4.0128,0.2492)"
-     id="text43"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="446.28"
-     y="-223.55"
-     id="text45"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="446.28"
-       y="-223.55"
-       id="tspan47" />
+  <text id="text123" y="1.6569999" x="861.95001" font-size="129.23px">
+   <tspan id="tspan125" y="1.6569999" x="861.95001"/>
   </text>
-  <text
-     x="308.29001"
-     y="-1246.22"
-     transform="scale(4.0128,0.2492)"
-     id="text49"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1027.55"
-     y="-303.56"
-     id="text51"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1027.55"
-       y="-303.56"
-       id="tspan53" />
+ </g>
+ <text id="text127" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-342.51001" x="411.88" font-family="Arial"/>
+ <text id="text129" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-78.339996" x="1443.22" font-family="Gentium Book Basic">
+  <tspan id="tspan131" y="-78.339996" x="1443.22"/>
+ </text>
+ <text id="text133" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-663.53998" x="556.72998" font-family="Arial"/>
+ <text id="text135" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-259.60001" x="371.64001" font-family="Gentium Book Basic">
+  <tspan id="tspan137" y="-259.60001" x="371.64001"/>
+ </text>
+ <text id="text139" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1390.89" x="289.69" font-family="Arial"/>
+ <text id="text141" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-476.07001" x="1469.6899" font-family="Gentium Book Basic">
+  <tspan id="tspan143" y="-476.07001" x="1469.6899"/>
+ </text>
+ <text id="text145" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2259.5601" x="563.33002" font-family="Arial"/>
+ <text id="text147" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-556.08002" x="2050.96" font-family="Gentium Book Basic">
+  <tspan id="tspan149" y="-556.08002" x="2050.96"/>
+ </text>
+ <text id="text151" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2580.6001" x="708.17999" font-family="Arial"/>
+ <text id="text153" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1028.48" x="1661.84" font-family="Gentium Book Basic">
+  <tspan id="tspan155" y="-1028.48" x="1661.84"/>
+ </text>
+ <text id="text157" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4476.25" x="611.21002" font-family="Arial"/>
+ <text id="text159" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1108.48" x="2243.1001" font-family="Gentium Book Basic">
+  <tspan id="tspan161" y="-1108.48" x="2243.1001"/>
+ </text>
+ <text id="text163" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4797.2798" x="756.06" font-family="Arial"/>
+ <g id="g165" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text167" y="306.23999" x="410.29999" font-size="208.33px">
+   <tspan id="tspan169" y="306.23999" x="410.29999"/>
   </text>
-  <text
-     x="453.14001"
-     y="-1567.26"
-     transform="scale(4.0128,0.2492)"
-     id="text55"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="638.42999"
-     y="-775.96002"
-     id="text57"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="638.42999"
-       y="-775.96002"
-       id="tspan59" />
+  <text id="text171" y="51.686001" x="1578.16" font-size="129.23px">
+   <tspan id="tspan173" y="51.686001" x="1578.16"/>
   </text>
-  <text
-     x="356.17001"
-     y="-3462.9099"
-     transform="scale(4.0128,0.2492)"
-     id="text61"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1219.6899"
-     y="-855.96002"
-     id="text63"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1219.6899"
-       y="-855.96002"
-       id="tspan65" />
+ </g>
+ <text id="text175" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-141.75" x="590.35999" font-family="Arial"/>
+ <text id="text177" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-28.313999" x="2159.4299" font-family="Gentium Book Basic">
+  <tspan id="tspan179" y="-28.313999" x="2159.4299"/>
+ </text>
+ <text id="text181" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-462.78" x="735.21002" font-family="Arial"/>
+ <text id="text183" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-209.57001" x="1087.85" font-family="Gentium Book Basic">
+  <tspan id="tspan185" y="-209.57001" x="1087.85"/>
+ </text>
+ <text id="text187" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1190.14" x="468.17001" font-family="Arial"/>
+ <text id="text189" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-426.04001" x="2185.8999" font-family="Gentium Book Basic">
+  <tspan id="tspan191" y="-426.04001" x="2185.8999"/>
+ </text>
+ <text id="text193" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2058.8" x="741.81" font-family="Arial"/>
+ <text id="text195" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-506.04999" x="2767.1699" font-family="Gentium Book Basic">
+  <tspan id="tspan197" y="-506.04999" x="2767.1699"/>
+ </text>
+ <text id="text199" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2379.8401" x="886.65997" font-family="Arial"/>
+ <text id="text201" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-978.45001" x="2378.05" font-family="Gentium Book Basic">
+  <tspan id="tspan203" y="-978.45001" x="2378.05"/>
+ </text>
+ <text id="text205" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4275.4902" x="789.69" font-family="Arial"/>
+ <text id="text207" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1058.45" x="2959.3101" font-family="Gentium Book Basic">
+  <tspan id="tspan209" y="-1058.45" x="2959.3101"/>
+ </text>
+ <text id="text211" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4596.52" x="934.53998" font-family="Arial"/>
+ <g id="g213" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text215" y="356.26999" x="1126.51" font-size="208.33px">
+   <tspan id="tspan217" y="356.26999" x="1126.51"/>
   </text>
-  <text
-     x="501.01999"
-     y="-3783.9399"
-     transform="scale(4.0128,0.2492)"
-     id="text67"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g69"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="-613.10999"
-       y="558.76001"
-       id="text71"
-       style="font-size:208.33000183px">
-      <tspan
-         x="-613.10999"
-         y="558.76001"
-         id="tspan73" />
-    </text>
-    <text
-       x="1473.85"
-       y="230.42"
-       id="text75"
-       style="font-size:129.22999573px">
-      <tspan
-         x="1473.85"
-         y="230.42"
-         id="tspan77" />
-    </text>
-  </g>
-  <text
-     x="564.37"
-     y="575.47998"
-     transform="scale(4.0128,0.2492)"
-     id="text79"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2055.1201"
-     y="150.42"
-     id="text81"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2055.1201"
-       y="150.42"
-       id="tspan83" />
+  <text id="text219" y="-177.08" x="966.26001" font-size="129.23px">
+   <tspan id="tspan221" y="-177.08" x="966.26001"/>
   </text>
-  <text
-     x="709.21997"
-     y="254.45"
-     transform="scale(4.0128,0.2492)"
-     id="text85"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="983.53998"
-     y="-30.84"
-     id="text87"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="983.53998"
-       y="-30.84"
-       id="tspan89" />
+ </g>
+ <text id="text223" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1059.74" x="437.87" font-family="Arial"/>
+ <text id="text225" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-257.07999" x="1547.53" font-family="Gentium Book Basic">
+  <tspan id="tspan227" y="-257.07999" x="1547.53"/>
+ </text>
+ <text id="text229" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1380.77" x="582.71997" font-family="Arial"/>
+ <text id="text231" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-438.34" x="475.95001" font-family="Gentium Book Basic">
+  <tspan id="tspan233" y="-438.34" x="475.95001"/>
+ </text>
+ <text id="text235" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2108.1201" x="315.69" font-family="Arial"/>
+ <text id="text237" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-654.81" x="1574" font-family="Gentium Book Basic">
+  <tspan id="tspan239" y="-654.81" x="1574"/>
+ </text>
+ <text id="text241" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2976.79" x="589.32001" font-family="Arial"/>
+ <text id="text243" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-734.82001" x="2155.27" font-family="Gentium Book Basic">
+  <tspan id="tspan245" y="-734.82001" x="2155.27"/>
+ </text>
+ <text id="text247" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3297.8301" x="734.16998" font-family="Arial"/>
+ <text id="text249" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1207.22" x="1766.15" font-family="Gentium Book Basic">
+  <tspan id="tspan251" y="-1207.22" x="1766.15"/>
+ </text>
+ <text id="text253" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-5193.48" x="637.20001" font-family="Arial"/>
+ <text id="text255" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1287.22" x="2347.4099" font-family="Gentium Book Basic">
+  <tspan id="tspan257" y="-1287.22" x="2347.4099"/>
+ </text>
+ <text id="text259" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-5514.5098" x="782.04999" font-family="Arial"/>
+ <g id="g261" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text263" y="127.5" x="514.60999" font-size="208.33px">
+   <tspan id="tspan265" y="127.5" x="514.60999"/>
   </text>
-  <text
-     x="442.17999"
-     y="-472.91"
-     transform="scale(4.0128,0.2492)"
-     id="text91"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2081.5901"
-     y="-247.31"
-     id="text93"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2081.5901"
-       y="-247.31"
-       id="tspan95" />
+  <text id="text267" y="-147.91" x="868.73999" font-size="129.23px">
+   <tspan id="tspan269" y="-147.91" x="868.73999"/>
   </text>
-  <text
-     x="715.82001"
-     y="-1341.5699"
-     transform="scale(4.0128,0.2492)"
-     id="text97"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2662.8601"
-     y="-327.32001"
-     id="text99"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2662.8601"
-       y="-327.32001"
-       id="tspan101" />
+ </g>
+ <text id="text271" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-942.67999" x="413.57001" font-family="Arial"/>
+ <text id="text273" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-227.91" x="1450.01" font-family="Gentium Book Basic">
+  <tspan id="tspan275" y="-227.91" x="1450.01"/>
+ </text>
+ <text id="text277" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1263.71" x="558.41998" font-family="Arial"/>
+ <text id="text279" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-409.17001" x="378.42999" font-family="Gentium Book Basic">
+  <tspan id="tspan281" y="-409.17001" x="378.42999"/>
+ </text>
+ <text id="text283" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1991.0699" x="291.38" font-family="Arial"/>
+ <text id="text285" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-625.64001" x="1476.48" font-family="Gentium Book Basic">
+  <tspan id="tspan287" y="-625.64001" x="1476.48"/>
+ </text>
+ <text id="text289" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2859.73" x="565.02002" font-family="Arial"/>
+ <text id="text291" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-705.65002" x="2057.75" font-family="Gentium Book Basic">
+  <tspan id="tspan293" y="-705.65002" x="2057.75"/>
+ </text>
+ <text id="text295" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3180.77" x="709.87" font-family="Arial"/>
+ <text id="text297" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1178.05" x="1668.63" font-family="Gentium Book Basic">
+  <tspan id="tspan299" y="-1178.05" x="1668.63"/>
+ </text>
+ <text id="text301" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-5076.4199" x="612.90002" font-family="Arial"/>
+ <text id="text303" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1258.05" x="2249.8899" font-family="Gentium Book Basic">
+  <tspan id="tspan305" y="-1258.05" x="2249.8899"/>
+ </text>
+ <text id="text307" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-5397.4502" x="757.75" font-family="Arial"/>
+ <g id="g309" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text311" y="156.67" x="417.09" font-size="208.33px">
+   <tspan id="tspan313" y="156.67" x="417.09"/>
   </text>
-  <text
-     x="860.65997"
-     y="-1662.61"
-     transform="scale(4.0128,0.2492)"
-     id="text103"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2273.74"
-     y="-799.71997"
-     id="text105"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2273.74"
-       y="-799.71997"
-       id="tspan107" />
+  <text id="text315" y="157.89999" x="1477.47" font-size="129.23px">
+   <tspan id="tspan317" y="157.89999" x="1477.47"/>
   </text>
-  <text
-     x="763.69"
-     y="-3558.26"
-     transform="scale(4.0128,0.2492)"
-     id="text109"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2855"
-     y="-879.71997"
-     id="text111"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2855"
-       y="-879.71997"
-       id="tspan113" />
+ </g>
+ <text id="text319" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="284.45001" x="565.27002" font-family="Arial"/>
+ <text id="text321" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="77.897003" x="2058.74" font-family="Gentium Book Basic">
+  <tspan id="tspan323" y="77.897003" x="2058.74"/>
+ </text>
+ <text id="text325" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-36.573002" x="710.12" font-family="Arial"/>
+ <text id="text327" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-103.36" x="987.15997" font-family="Gentium Book Basic">
+  <tspan id="tspan329" y="-103.36" x="987.15997"/>
+ </text>
+ <text id="text331" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-763.92999" x="443.07999" font-family="Arial"/>
+ <text id="text333" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-319.82999" x="2085.21" font-family="Gentium Book Basic">
+  <tspan id="tspan335" y="-319.82999" x="2085.21"/>
+ </text>
+ <text id="text337" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1632.6" x="716.71997" font-family="Arial"/>
+ <text id="text339" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-399.84" x="2666.48" font-family="Gentium Book Basic">
+  <tspan id="tspan341" y="-399.84" x="2666.48"/>
+ </text>
+ <text id="text343" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1953.63" x="861.57001" font-family="Arial"/>
+ <text id="text345" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-872.23999" x="2277.3601" font-family="Gentium Book Basic">
+  <tspan id="tspan347" y="-872.23999" x="2277.3601"/>
+ </text>
+ <text id="text349" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-3849.28" x="764.59998" font-family="Arial"/>
+ <text id="text351" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-952.23999" x="2858.6201" font-family="Gentium Book Basic">
+  <tspan id="tspan353" y="-952.23999" x="2858.6201"/>
+ </text>
+ <text id="text355" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4170.3101" x="909.45001" font-family="Arial"/>
+ <g id="g357" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text359" y="462.48001" x="1025.8199" font-size="208.33px">
+   <tspan id="tspan361" y="462.48001" x="1025.8199"/>
   </text>
-  <text
-     x="908.53998"
-     y="-3879.29"
-     transform="scale(4.0128,0.2492)"
-     id="text115"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g117"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="1022.2"
-       y="535"
-       id="text119"
-       style="font-size:208.33000183px">
-      <tspan
-         x="1022.2"
-         y="535"
-         id="tspan121" />
-    </text>
-    <text
-       x="861.95001"
-       y="1.6569999"
-       id="text123"
-       style="font-size:129.22999573px">
-      <tspan
-         x="861.95001"
-         y="1.6569999"
-         id="tspan125" />
-    </text>
-  </g>
-  <text
-     x="411.88"
-     y="-342.51001"
-     transform="scale(4.0128,0.2492)"
-     id="text127"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1443.22"
-     y="-78.339996"
-     id="text129"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1443.22"
-       y="-78.339996"
-       id="tspan131" />
+  <text id="text363" y="-70.865997" x="865.57001" font-size="129.23px">
+   <tspan id="tspan365" y="-70.865997" x="865.57001"/>
   </text>
-  <text
-     x="556.72998"
-     y="-663.53998"
-     transform="scale(4.0128,0.2492)"
-     id="text133"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="371.64001"
-     y="-259.60001"
-     id="text135"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="371.64001"
-       y="-259.60001"
-       id="tspan137" />
+ </g>
+ <text id="text367" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-633.53003" x="412.78" font-family="Arial"/>
+ <text id="text369" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-150.87" x="1446.84" font-family="Gentium Book Basic">
+  <tspan id="tspan371" y="-150.87" x="1446.84"/>
+ </text>
+ <text id="text373" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-954.56" x="557.63" font-family="Arial"/>
+ <text id="text375" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-332.13" x="375.26001" font-family="Gentium Book Basic">
+  <tspan id="tspan377" y="-332.13" x="375.26001"/>
+ </text>
+ <text id="text379" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1681.92" x="290.59" font-family="Arial"/>
+ <text id="text381" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-548.59998" x="1473.3101" font-family="Gentium Book Basic">
+  <tspan id="tspan383" y="-548.59998" x="1473.3101"/>
+ </text>
+ <text id="text385" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2550.5801" x="564.22998" font-family="Arial"/>
+ <text id="text387" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-628.60999" x="2054.5801" font-family="Gentium Book Basic">
+  <tspan id="tspan389" y="-628.60999" x="2054.5801"/>
+ </text>
+ <text id="text391" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2871.6201" x="709.08002" font-family="Arial"/>
+ <text id="text393" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1101.01" x="1665.46" font-family="Gentium Book Basic">
+  <tspan id="tspan395" y="-1101.01" x="1665.46"/>
+ </text>
+ <text id="text397" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4767.27" x="612.10999" font-family="Arial"/>
+ <text id="text399" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1181.01" x="2246.72" font-family="Gentium Book Basic">
+  <tspan id="tspan401" y="-1181.01" x="2246.72"/>
+ </text>
+ <text id="text403" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-5088.2998" x="756.96002" font-family="Arial"/>
+ <g id="g405" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text407" y="233.71001" x="413.92001" font-size="208.33px">
+   <tspan id="tspan409" y="233.71001" x="413.92001"/>
   </text>
-  <text
-     x="289.69"
-     y="-1390.89"
-     transform="scale(4.0128,0.2492)"
-     id="text139"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1469.6899"
-     y="-476.07001"
-     id="text141"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1469.6899"
-       y="-476.07001"
-       id="tspan143" />
+  <text id="text411" y="-41.695999" x="768.04999" font-size="129.23px">
+   <tspan id="tspan413" y="-41.695999" x="768.04999"/>
   </text>
-  <text
-     x="563.33002"
-     y="-2259.5601"
-     transform="scale(4.0128,0.2492)"
-     id="text145"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2050.96"
-     y="-556.08002"
-     id="text147"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2050.96"
-       y="-556.08002"
-       id="tspan149" />
+ </g>
+ <text id="text415" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-516.47998" x="388.48001" font-family="Arial"/>
+ <text id="text417" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-121.7" x="1349.3199" font-family="Gentium Book Basic">
+  <tspan id="tspan419" y="-121.7" x="1349.3199"/>
+ </text>
+ <text id="text421" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-837.51001" x="533.33002" font-family="Arial"/>
+ <text id="text423" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-302.95999" x="277.73999" font-family="Gentium Book Basic">
+  <tspan id="tspan425" y="-302.95999" x="277.73999"/>
+ </text>
+ <text id="text427" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1564.86" x="266.29001" font-family="Arial"/>
+ <text id="text429" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-519.42999" x="1375.79" font-family="Gentium Book Basic">
+  <tspan id="tspan431" y="-519.42999" x="1375.79"/>
+ </text>
+ <text id="text433" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2433.53" x="539.92999" font-family="Arial"/>
+ <text id="text435" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-599.44" x="1957.0601" font-family="Gentium Book Basic">
+  <tspan id="tspan437" y="-599.44" x="1957.0601"/>
+ </text>
+ <text id="text439" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2754.5701" x="684.78003" font-family="Arial"/>
+ <text id="text441" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1071.84" x="1567.9399" font-family="Gentium Book Basic">
+  <tspan id="tspan443" y="-1071.84" x="1567.9399"/>
+ </text>
+ <text id="text445" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4650.2202" x="587.81" font-family="Arial"/>
+ <text id="text447" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1151.84" x="2149.2" font-family="Gentium Book Basic">
+  <tspan id="tspan449" y="-1151.84" x="2149.2"/>
+ </text>
+ <text id="text451" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4971.2402" x="732.65997" font-family="Arial"/>
+ <g id="g453" style="word-spacing:0;letter-spacing:0" font-family="Gentium Book Basic" line-height="125%">
+  <text id="text455" y="262.88" x="316.39999" font-size="208.33px">
+   <tspan id="tspan457" y="262.88" x="316.39999"/>
   </text>
-  <text
-     x="708.17999"
-     y="-2580.6001"
-     transform="scale(4.0128,0.2492)"
-     id="text151"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1661.84"
-     y="-1028.48"
-     id="text153"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1661.84"
-       y="-1028.48"
-       id="tspan155" />
+  <text id="text459" y="-74.239998" x="687.78003" font-size="129.23px">
+   <tspan id="tspan461" y="-74.239998" x="687.78003"/>
   </text>
-  <text
-     x="611.21002"
-     y="-4476.25"
-     transform="scale(4.0128,0.2492)"
-     id="text157"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2243.1001"
-     y="-1108.48"
-     id="text159"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2243.1001"
-       y="-1108.48"
-       id="tspan161" />
-  </text>
-  <text
-     x="756.06"
-     y="-4797.2798"
-     transform="scale(4.0128,0.2492)"
-     id="text163"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g165"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="410.29999"
-       y="306.23999"
-       id="text167"
-       style="font-size:208.33000183px">
-      <tspan
-         x="410.29999"
-         y="306.23999"
-         id="tspan169" />
-    </text>
-    <text
-       x="1578.16"
-       y="51.686001"
-       id="text171"
-       style="font-size:129.22999573px">
-      <tspan
-         x="1578.16"
-         y="51.686001"
-         id="tspan173" />
-    </text>
-  </g>
-  <text
-     x="590.35999"
-     y="-141.75"
-     transform="scale(4.0128,0.2492)"
-     id="text175"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2159.4299"
-     y="-28.313999"
-     id="text177"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2159.4299"
-       y="-28.313999"
-       id="tspan179" />
-  </text>
-  <text
-     x="735.21002"
-     y="-462.78"
-     transform="scale(4.0128,0.2492)"
-     id="text181"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1087.85"
-     y="-209.57001"
-     id="text183"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1087.85"
-       y="-209.57001"
-       id="tspan185" />
-  </text>
-  <text
-     x="468.17001"
-     y="-1190.14"
-     transform="scale(4.0128,0.2492)"
-     id="text187"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2185.8999"
-     y="-426.04001"
-     id="text189"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2185.8999"
-       y="-426.04001"
-       id="tspan191" />
-  </text>
-  <text
-     x="741.81"
-     y="-2058.8"
-     transform="scale(4.0128,0.2492)"
-     id="text193"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2767.1699"
-     y="-506.04999"
-     id="text195"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2767.1699"
-       y="-506.04999"
-       id="tspan197" />
-  </text>
-  <text
-     x="886.65997"
-     y="-2379.8401"
-     transform="scale(4.0128,0.2492)"
-     id="text199"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2378.05"
-     y="-978.45001"
-     id="text201"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2378.05"
-       y="-978.45001"
-       id="tspan203" />
-  </text>
-  <text
-     x="789.69"
-     y="-4275.4902"
-     transform="scale(4.0128,0.2492)"
-     id="text205"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2959.3101"
-     y="-1058.45"
-     id="text207"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2959.3101"
-       y="-1058.45"
-       id="tspan209" />
-  </text>
-  <text
-     x="934.53998"
-     y="-4596.52"
-     transform="scale(4.0128,0.2492)"
-     id="text211"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g213"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="1126.51"
-       y="356.26999"
-       id="text215"
-       style="font-size:208.33000183px">
-      <tspan
-         x="1126.51"
-         y="356.26999"
-         id="tspan217" />
-    </text>
-    <text
-       x="966.26001"
-       y="-177.08"
-       id="text219"
-       style="font-size:129.22999573px">
-      <tspan
-         x="966.26001"
-         y="-177.08"
-         id="tspan221" />
-    </text>
-  </g>
-  <text
-     x="437.87"
-     y="-1059.74"
-     transform="scale(4.0128,0.2492)"
-     id="text223"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1547.53"
-     y="-257.07999"
-     id="text225"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1547.53"
-       y="-257.07999"
-       id="tspan227" />
-  </text>
-  <text
-     x="582.71997"
-     y="-1380.77"
-     transform="scale(4.0128,0.2492)"
-     id="text229"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="475.95001"
-     y="-438.34"
-     id="text231"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="475.95001"
-       y="-438.34"
-       id="tspan233" />
-  </text>
-  <text
-     x="315.69"
-     y="-2108.1201"
-     transform="scale(4.0128,0.2492)"
-     id="text235"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1574"
-     y="-654.81"
-     id="text237"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1574"
-       y="-654.81"
-       id="tspan239" />
-  </text>
-  <text
-     x="589.32001"
-     y="-2976.79"
-     transform="scale(4.0128,0.2492)"
-     id="text241"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2155.27"
-     y="-734.82001"
-     id="text243"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2155.27"
-       y="-734.82001"
-       id="tspan245" />
-  </text>
-  <text
-     x="734.16998"
-     y="-3297.8301"
-     transform="scale(4.0128,0.2492)"
-     id="text247"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1766.15"
-     y="-1207.22"
-     id="text249"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1766.15"
-       y="-1207.22"
-       id="tspan251" />
-  </text>
-  <text
-     x="637.20001"
-     y="-5193.48"
-     transform="scale(4.0128,0.2492)"
-     id="text253"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2347.4099"
-     y="-1287.22"
-     id="text255"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2347.4099"
-       y="-1287.22"
-       id="tspan257" />
-  </text>
-  <text
-     x="782.04999"
-     y="-5514.5098"
-     transform="scale(4.0128,0.2492)"
-     id="text259"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g261"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="514.60999"
-       y="127.5"
-       id="text263"
-       style="font-size:208.33000183px">
-      <tspan
-         x="514.60999"
-         y="127.5"
-         id="tspan265" />
-    </text>
-    <text
-       x="868.73999"
-       y="-147.91"
-       id="text267"
-       style="font-size:129.22999573px">
-      <tspan
-         x="868.73999"
-         y="-147.91"
-         id="tspan269" />
-    </text>
-  </g>
-  <text
-     x="413.57001"
-     y="-942.67999"
-     transform="scale(4.0128,0.2492)"
-     id="text271"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1450.01"
-     y="-227.91"
-     id="text273"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1450.01"
-       y="-227.91"
-       id="tspan275" />
-  </text>
-  <text
-     x="558.41998"
-     y="-1263.71"
-     transform="scale(4.0128,0.2492)"
-     id="text277"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="378.42999"
-     y="-409.17001"
-     id="text279"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="378.42999"
-       y="-409.17001"
-       id="tspan281" />
-  </text>
-  <text
-     x="291.38"
-     y="-1991.0699"
-     transform="scale(4.0128,0.2492)"
-     id="text283"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1476.48"
-     y="-625.64001"
-     id="text285"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1476.48"
-       y="-625.64001"
-       id="tspan287" />
-  </text>
-  <text
-     x="565.02002"
-     y="-2859.73"
-     transform="scale(4.0128,0.2492)"
-     id="text289"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2057.75"
-     y="-705.65002"
-     id="text291"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2057.75"
-       y="-705.65002"
-       id="tspan293" />
-  </text>
-  <text
-     x="709.87"
-     y="-3180.77"
-     transform="scale(4.0128,0.2492)"
-     id="text295"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1668.63"
-     y="-1178.05"
-     id="text297"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1668.63"
-       y="-1178.05"
-       id="tspan299" />
-  </text>
-  <text
-     x="612.90002"
-     y="-5076.4199"
-     transform="scale(4.0128,0.2492)"
-     id="text301"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2249.8899"
-     y="-1258.05"
-     id="text303"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2249.8899"
-       y="-1258.05"
-       id="tspan305" />
-  </text>
-  <text
-     x="757.75"
-     y="-5397.4502"
-     transform="scale(4.0128,0.2492)"
-     id="text307"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g309"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="417.09"
-       y="156.67"
-       id="text311"
-       style="font-size:208.33000183px">
-      <tspan
-         x="417.09"
-         y="156.67"
-         id="tspan313" />
-    </text>
-    <text
-       x="1477.47"
-       y="157.89999"
-       id="text315"
-       style="font-size:129.22999573px">
-      <tspan
-         x="1477.47"
-         y="157.89999"
-         id="tspan317" />
-    </text>
-  </g>
-  <text
-     x="565.27002"
-     y="284.45001"
-     transform="scale(4.0128,0.2492)"
-     id="text319"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2058.74"
-     y="77.897003"
-     id="text321"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2058.74"
-       y="77.897003"
-       id="tspan323" />
-  </text>
-  <text
-     x="710.12"
-     y="-36.573002"
-     transform="scale(4.0128,0.2492)"
-     id="text325"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="987.15997"
-     y="-103.36"
-     id="text327"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="987.15997"
-       y="-103.36"
-       id="tspan329" />
-  </text>
-  <text
-     x="443.07999"
-     y="-763.92999"
-     transform="scale(4.0128,0.2492)"
-     id="text331"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2085.21"
-     y="-319.82999"
-     id="text333"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2085.21"
-       y="-319.82999"
-       id="tspan335" />
-  </text>
-  <text
-     x="716.71997"
-     y="-1632.6"
-     transform="scale(4.0128,0.2492)"
-     id="text337"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2666.48"
-     y="-399.84"
-     id="text339"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2666.48"
-       y="-399.84"
-       id="tspan341" />
-  </text>
-  <text
-     x="861.57001"
-     y="-1953.63"
-     transform="scale(4.0128,0.2492)"
-     id="text343"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2277.3601"
-     y="-872.23999"
-     id="text345"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2277.3601"
-       y="-872.23999"
-       id="tspan347" />
-  </text>
-  <text
-     x="764.59998"
-     y="-3849.28"
-     transform="scale(4.0128,0.2492)"
-     id="text349"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2858.6201"
-     y="-952.23999"
-     id="text351"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2858.6201"
-       y="-952.23999"
-       id="tspan353" />
-  </text>
-  <text
-     x="909.45001"
-     y="-4170.3101"
-     transform="scale(4.0128,0.2492)"
-     id="text355"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g357"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="1025.8199"
-       y="462.48001"
-       id="text359"
-       style="font-size:208.33000183px">
-      <tspan
-         x="1025.8199"
-         y="462.48001"
-         id="tspan361" />
-    </text>
-    <text
-       x="865.57001"
-       y="-70.865997"
-       id="text363"
-       style="font-size:129.22999573px">
-      <tspan
-         x="865.57001"
-         y="-70.865997"
-         id="tspan365" />
-    </text>
-  </g>
-  <text
-     x="412.78"
-     y="-633.53003"
-     transform="scale(4.0128,0.2492)"
-     id="text367"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1446.84"
-     y="-150.87"
-     id="text369"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1446.84"
-       y="-150.87"
-       id="tspan371" />
-  </text>
-  <text
-     x="557.63"
-     y="-954.56"
-     transform="scale(4.0128,0.2492)"
-     id="text373"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="375.26001"
-     y="-332.13"
-     id="text375"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="375.26001"
-       y="-332.13"
-       id="tspan377" />
-  </text>
-  <text
-     x="290.59"
-     y="-1681.92"
-     transform="scale(4.0128,0.2492)"
-     id="text379"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1473.3101"
-     y="-548.59998"
-     id="text381"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1473.3101"
-       y="-548.59998"
-       id="tspan383" />
-  </text>
-  <text
-     x="564.22998"
-     y="-2550.5801"
-     transform="scale(4.0128,0.2492)"
-     id="text385"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2054.5801"
-     y="-628.60999"
-     id="text387"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2054.5801"
-       y="-628.60999"
-       id="tspan389" />
-  </text>
-  <text
-     x="709.08002"
-     y="-2871.6201"
-     transform="scale(4.0128,0.2492)"
-     id="text391"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1665.46"
-     y="-1101.01"
-     id="text393"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1665.46"
-       y="-1101.01"
-       id="tspan395" />
-  </text>
-  <text
-     x="612.10999"
-     y="-4767.27"
-     transform="scale(4.0128,0.2492)"
-     id="text397"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2246.72"
-     y="-1181.01"
-     id="text399"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2246.72"
-       y="-1181.01"
-       id="tspan401" />
-  </text>
-  <text
-     x="756.96002"
-     y="-5088.2998"
-     transform="scale(4.0128,0.2492)"
-     id="text403"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g405"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="413.92001"
-       y="233.71001"
-       id="text407"
-       style="font-size:208.33000183px">
-      <tspan
-         x="413.92001"
-         y="233.71001"
-         id="tspan409" />
-    </text>
-    <text
-       x="768.04999"
-       y="-41.695999"
-       id="text411"
-       style="font-size:129.22999573px">
-      <tspan
-         x="768.04999"
-         y="-41.695999"
-         id="tspan413" />
-    </text>
-  </g>
-  <text
-     x="388.48001"
-     y="-516.47998"
-     transform="scale(4.0128,0.2492)"
-     id="text415"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1349.3199"
-     y="-121.7"
-     id="text417"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1349.3199"
-       y="-121.7"
-       id="tspan419" />
-  </text>
-  <text
-     x="533.33002"
-     y="-837.51001"
-     transform="scale(4.0128,0.2492)"
-     id="text421"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="277.73999"
-     y="-302.95999"
-     id="text423"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="277.73999"
-       y="-302.95999"
-       id="tspan425" />
-  </text>
-  <text
-     x="266.29001"
-     y="-1564.86"
-     transform="scale(4.0128,0.2492)"
-     id="text427"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1375.79"
-     y="-519.42999"
-     id="text429"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1375.79"
-       y="-519.42999"
-       id="tspan431" />
-  </text>
-  <text
-     x="539.92999"
-     y="-2433.53"
-     transform="scale(4.0128,0.2492)"
-     id="text433"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1957.0601"
-     y="-599.44"
-     id="text435"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1957.0601"
-       y="-599.44"
-       id="tspan437" />
-  </text>
-  <text
-     x="684.78003"
-     y="-2754.5701"
-     transform="scale(4.0128,0.2492)"
-     id="text439"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1567.9399"
-     y="-1071.84"
-     id="text441"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1567.9399"
-       y="-1071.84"
-       id="tspan443" />
-  </text>
-  <text
-     x="587.81"
-     y="-4650.2202"
-     transform="scale(4.0128,0.2492)"
-     id="text445"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2149.2"
-     y="-1151.84"
-     id="text447"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2149.2"
-       y="-1151.84"
-       id="tspan449" />
-  </text>
-  <text
-     x="732.65997"
-     y="-4971.2402"
-     transform="scale(4.0128,0.2492)"
-     id="text451"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <g
-     id="g453"
-     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <text
-       x="316.39999"
-       y="262.88"
-       id="text455"
-       style="font-size:208.33000183px">
-      <tspan
-         x="316.39999"
-         y="262.88"
-         id="tspan457" />
-    </text>
-    <text
-       x="687.78003"
-       y="-74.239998"
-       id="text459"
-       style="font-size:129.22999573px">
-      <tspan
-         x="687.78003"
-         y="-74.239998"
-         id="tspan461" />
-    </text>
-  </g>
-  <text
-     x="368.48001"
-     y="-647.06"
-     transform="scale(4.0128,0.2492)"
-     id="text463"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1269.05"
-     y="-154.24001"
-     id="text465"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1269.05"
-       y="-154.24001"
-       id="tspan467" />
-  </text>
-  <text
-     x="513.33002"
-     y="-968.09003"
-     transform="scale(4.0128,0.2492)"
-     id="text469"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="197.47"
-     y="-335.5"
-     id="text471"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="197.47"
-       y="-335.5"
-       id="tspan473" />
-  </text>
-  <text
-     x="246.28999"
-     y="-1695.45"
-     transform="scale(4.0128,0.2492)"
-     id="text475"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1295.52"
-     y="-551.96997"
-     id="text477"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1295.52"
-       y="-551.96997"
-       id="tspan479" />
-  </text>
-  <text
-     x="519.92999"
-     y="-2564.1101"
-     transform="scale(4.0128,0.2492)"
-     id="text481"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1876.79"
-     y="-631.97998"
-     id="text483"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1876.79"
-       y="-631.97998"
-       id="tspan485" />
-  </text>
-  <text
-     x="664.77002"
-     y="-2885.1499"
-     transform="scale(4.0128,0.2492)"
-     id="text487"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1487.67"
-     y="-1104.38"
-     id="text489"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1487.67"
-       y="-1104.38"
-       id="tspan491" />
-  </text>
-  <text
-     x="567.81"
-     y="-4780.7998"
-     transform="scale(4.0128,0.2492)"
-     id="text493"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="2068.9299"
-     y="-1184.38"
-     id="text495"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="2068.9299"
-       y="-1184.38"
-       id="tspan497" />
-  </text>
-  <text
-     x="712.65002"
-     y="-5101.8301"
-     transform="scale(4.0128,0.2492)"
-     id="text499"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="236.13"
-     y="230.34"
-     id="text501"
-     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="236.13"
-       y="230.34"
-       id="tspan503" />
-  </text>
-  <path
-     d="m 41,90.66 v 99.22 l 49.625,49.625 H 41 v 99.22 l 49.563,49.563 H 41 v 33.06 l 90.66,90.66 H 486 c 14.397,0 26,-11.603 26,-26 v -286.44 l -73,-73 -1.938,-1.969 C 416.105,103.642 387.171,90.661 355.192,90.661 v 33.31 l -16.75,-16.75 c -40.34,0 -75.866,20.635 -96.59,51.938 l -68.5,-68.5 H 41.012"
-     inkscape:connector-curvature="0"
-     id="path505"
-     style="opacity:0.25" />
-  <path
-     d="m 41,90.66 v 99.22 H 173.33 V 90.66 H 41 m 314.18,0 V 206.48 H 471 C 471,142.556 419.158,90.66 355.18,90.66 m -16.745,16.553 c -63.924,0 -115.78,51.794 -115.78,115.78 0,63.924 51.794,115.78 115.78,115.78 63.924,0 115.78,-51.794 115.78,-115.78 h -115.78 v -115.78 m -297.43,132.28 v 99.22 h 132.33 v -99.22 H 41.005 m 0,148.79 v 33.06 h 429.95 v -33.06 H 41.005"
-     inkscape:connector-curvature="0"
-     id="path507"
-     style="fill:#f9f9f9" />
+ </g>
+ <text id="text463" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-647.06" x="368.48001" font-family="Arial"/>
+ <text id="text465" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-154.24001" x="1269.05" font-family="Gentium Book Basic">
+  <tspan id="tspan467" y="-154.24001" x="1269.05"/>
+ </text>
+ <text id="text469" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-968.09003" x="513.33002" font-family="Arial"/>
+ <text id="text471" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-335.5" x="197.47" font-family="Gentium Book Basic">
+  <tspan id="tspan473" y="-335.5" x="197.47"/>
+ </text>
+ <text id="text475" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-1695.45" x="246.28999" font-family="Arial"/>
+ <text id="text477" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-551.96997" x="1295.52" font-family="Gentium Book Basic">
+  <tspan id="tspan479" y="-551.96997" x="1295.52"/>
+ </text>
+ <text id="text481" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2564.1101" x="519.92999" font-family="Arial"/>
+ <text id="text483" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-631.97998" x="1876.79" font-family="Gentium Book Basic">
+  <tspan id="tspan485" y="-631.97998" x="1876.79"/>
+ </text>
+ <text id="text487" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-2885.1499" x="664.77002" font-family="Arial"/>
+ <text id="text489" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1104.38" x="1487.67" font-family="Gentium Book Basic">
+  <tspan id="tspan491" y="-1104.38" x="1487.67"/>
+ </text>
+ <text id="text493" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-4780.7998" x="567.81" font-family="Arial"/>
+ <text id="text495" style="word-spacing:0;letter-spacing:0" font-size="129.23px" line-height="125%" y="-1184.38" x="2068.9299" font-family="Gentium Book Basic">
+  <tspan id="tspan497" y="-1184.38" x="2068.9299"/>
+ </text>
+ <text id="text499" style="text-anchor:middle" transform="scale(4.0128 .2492)" font-size="46.954px" y="-5101.8301" x="712.65002" font-family="Arial"/>
+ <text id="text501" style="word-spacing:0;letter-spacing:0" font-size="208.33px" line-height="125%" y="230.34" x="236.13" font-family="Gentium Book Basic">
+  <tspan id="tspan503" y="230.34" x="236.13"/>
+ </text>
+ <path id="path505" opacity=".25" d="m41 90.66v99.22l49.625 49.625h-49.625v99.22l49.563 49.563h-49.563v33.06l90.66 90.66h354.34c14.397 0 26-11.603 26-26v-286.44l-73-73-1.938-1.969c-20.96-20.95-49.89-33.929-81.87-33.929v33.31l-16.75-16.75c-40.34 0-75.866 20.635-96.59 51.938l-68.5-68.5h-132.34"/>
+ <path id="path507" d="m41 90.66v99.22h132.33v-99.22h-132.33m314.18 0v115.82h115.82c0-63.92-51.84-115.82-115.82-115.82m-16.745 16.553c-63.924 0-115.78 51.794-115.78 115.78 0 63.924 51.794 115.78 115.78 115.78 63.924 0 115.78-51.794 115.78-115.78h-115.78v-115.78m-297.43 132.28v99.22h132.33v-99.22h-132.34m0 148.79v33.06h429.95v-33.06h-429.94" fill="#f9f9f9"/>
 </svg>

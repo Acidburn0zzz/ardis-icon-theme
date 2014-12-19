@@ -1,306 +1,220 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="100%"
-   height="100%"
    viewBox="0 0 512 512"
-   id="svg2">
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r13804 custom"
+   sodipodi:docname="playonlinux.svg">
   <metadata
-     id="metadata129">
+     id="metadata749">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview747"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-37.802454"
+     inkscape:cy="206.9788"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <clipPath
-       id="0">
+       id="3-3">
       <path
-         d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
          inkscape:connector-curvature="0"
-         id="path7" />
+         d="m -7.03,52.33 c 0.08,0.3 0.096,1.542 -1.032,2.158 -0.841,0.459 -3.324,0.836 -5.03,-1.063 -1.766,-1.97 -0.597,-4.263 0.719,-5.414 0.685,-0.599 1.48,-0.841 1.77,-0.667 0.307,0.184 0.316,0.555 0.071,0.73 -0.589,0.419 -1.114,1.609 -0.532,2.434 0.687,0.974 1.855,0.571 2.46,0.496 0.5,-0.062 1.283,0.242 1.571,1.327"
+         id="path7-5" />
+    </clipPath>
+    <clipPath
+       id="0-6">
+      <path
+         id="path4883"
+         d="m26 0c-14.397 0-26 11.603-26 26v460c0 14.397 11.603 26 26 26h460c14.397 0 26-11.603 26-26v-460c0-14.397-11.603-26-26-26h-460" />
     </clipPath>
   </defs>
-  <path
-     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
-     inkscape:connector-curvature="0"
-     id="path9"
-     style="fill:#68af4c" />
-  <text
-     x="-264.57999"
-     y="266.73999"
-     id="text11"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-264.57999"
-       y="266.73999"
-       id="tspan13" />
-  </text>
-  <text
-     x="131.14999"
-     y="721.22998"
-     transform="scale(4.0128,0.2492)"
-     id="text15"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="316.69"
-     y="186.74001"
-     id="text17"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="316.69"
-       y="186.74001"
-       id="tspan19" />
-  </text>
-  <text
-     x="276"
-     y="400.20001"
-     transform="scale(4.0128,0.2492)"
-     id="text21"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-754.89001"
-     y="5.4819999"
-     id="text23"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-754.89001"
-       y="5.4819999"
-       id="tspan25" />
-  </text>
-  <text
-     x="8.9580002"
-     y="-327.14999"
-     transform="scale(4.0128,0.2492)"
-     id="text27"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="343.16"
-     y="-210.99001"
-     id="text29"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="343.16"
-       y="-210.99001"
-       id="tspan31" />
-  </text>
-  <text
-     x="282.60001"
-     y="-1195.8199"
-     transform="scale(4.0128,0.2492)"
-     id="text33"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="924.42999"
-     y="-291"
-     id="text35"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="924.42999"
-       y="-291"
-       id="tspan37" />
-  </text>
-  <text
-     x="427.45001"
-     y="-1516.86"
-     transform="scale(4.0128,0.2492)"
-     id="text39"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="535.31"
-     y="-763.40002"
-     id="text41"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="535.31"
-       y="-763.40002"
-       id="tspan43" />
-  </text>
-  <text
-     x="330.48001"
-     y="-3412.51"
-     transform="scale(4.0128,0.2492)"
-     id="text45"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="1116.5699"
-     y="-843.40002"
-     id="text47"
-     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="1116.5699"
-       y="-843.40002"
-       id="tspan49" />
-  </text>
-  <text
-     x="475.32999"
-     y="-3733.54"
-     transform="scale(4.0128,0.2492)"
-     id="text51"
-     style="font-size:46.95399857px;text-anchor:middle;font-family:Arial" />
-  <text
-     x="-716.22998"
-     y="571.32001"
-     id="text53"
-     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
-    <tspan
-       x="-716.22998"
-       y="571.32001"
-       id="tspan55" />
-  </text>
   <g
-     clip-path="url(#0)"
-     id="g57"
-     style="opacity:0.25">
+     id="g5363"
+     transform="translate(110.64407,-52.068078)">
     <path
-       d="m 283.18,41.03 c -39.822,1.447 -40.17,66.43 -40.17,66.43 l 353.55,353.55 c 0,0 0.348,-64.985 40.17,-66.43 z"
-       inkscape:connector-curvature="0"
-       id="path59" />
+       id="path5083"
+       style="fill:#68af4c"
+       d="m -84.64407,52.067797 c -14.397,0 -26,11.603 -26,26 l 0,460.000003 c 0,14.397 11.603,26 26,26 l 460,0 c 14.397,0 26,-11.603 26,-26 l 0,-460.000003 c 0,-14.397 -11.603,-26 -26,-26 l -460,0"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text5085"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="-375.22406"
+       y="318.8078"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5087"
+         x="-375.22406"
+         y="318.8078" />
+    </text>
+    <text
+       id="text5089"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="103.57668"
+       y="930.16504"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5091"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="206.04593"
+       y="238.8078"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5093"
+         x="206.04593"
+         y="238.8078" />
+    </text>
+    <text
+       id="text5095"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="248.42595"
+       y="609.13672"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5097"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="-865.53406"
+       y="57.549797"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5099"
+         x="-865.53406"
+         y="57.549797" />
+    </text>
+    <text
+       id="text5101"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="-18.614689"
+       y="-118.20959"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5103"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="232.51593"
+       y="-158.92221"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5105"
+         x="232.51593"
+         y="-158.92221" />
+    </text>
+    <text
+       id="text5107"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="255.02591"
+       y="-986.87512"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5109"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="813.78595"
+       y="-238.93221"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5111"
+         x="813.78595"
+         y="-238.93221" />
+    </text>
+    <text
+       id="text5113"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="399.87518"
+       y="-1307.9135"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5115"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="424.66592"
+       y="-711.33221"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5117"
+         x="424.66592"
+         y="-711.33221" />
+    </text>
+    <text
+       id="text5119"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="302.90567"
+       y="-3203.5537"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5121"
+       style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="1005.9259"
+       y="-791.33221"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5123"
+         x="1005.9259"
+         y="-791.33221" />
+    </text>
+    <text
+       id="text5125"
+       style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+       x="447.75491"
+       y="-3524.5823"
+       transform="scale(4.0128205,0.24920128)" />
+    <text
+       id="text5127"
+       style="font-size:208.33000183px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+       line-height="125%"
+       x="-826.87402"
+       y="623.38782"
+       sodipodi:linespacing="125%">
+      <tspan
+         id="tspan5129"
+         x="-826.87402"
+         y="623.38782" />
+    </text>
     <path
-       d="M 243.01,107.46 255.988,256.02 609.538,609.57 596.56,461.01 z"
-       inkscape:connector-curvature="0"
-       id="path61" />
+       style="opacity:0.25"
+       id="path5133"
+       d="m 174.2832,93.068359 c -0.59088,-0.006 -1.17367,0.0024 -1.74804,0.02344 L 305.01367,225.57031 c -9.7e-4,0.001 -9.8e-4,0.003 -0.002,0.004 L 172.53516,93.097656 c -39.822,1.447 -40.16993,66.429684 -40.16993,66.429684 l 5.58204,63.89063 -73.730473,-73.73047 c -18.315,-18.315 -47.598938,-33.87534 -74.2109376,12.22266 l 146.9003906,146.90039 -0.008,0 L -9.9941406,161.91797 c -13.1930004,22.851 -13.4585624,39.66006 -7.6015624,52.03906 -13.64396,1.11661 -28.088334,9.71927 -41.277344,32.56641 l -0.0059,-0.006 c -15.961,27.646 -12.232016,45.03951 -1.291016,55.97851 l 0.08984,0.0899 c -0.03034,-0.0301 -0.06352,-0.0577 -0.09375,-0.0879 L 9.125,371.79688 c -8.45817437,5.24296 -64.234365,41.97514 -28.089844,78.11132 l 0.246094,0.2461 c -0.07973,-0.0788 -0.167237,-0.15747 -0.246094,-0.23633 l 114.150391,114.15039 280.169923,0 c 14.397,0 26,-11.603 26,-26 l 0,-280.26953 -91.61914,-91.6211 c -4.536,-4.536 -10.51952,-9.06071 -18.22852,-13.51171 l 28.21485,28.21484 c 7.4e-4,0.002 10e-4,0.004 0.002,0.006 l -28.21875,-28.21875 c -17.02634,-9.82982 -30.69843,-12.44814 -41.68359,-10.7207 L 225.75591,117.881 c -4.772,-4.772 -10.96538,-9.47806 -18.85938,-14.03906 l 29.74219,29.74218 c 8e-4,0.002 0.001,0.004 0.002,0.006 L 206.89648,103.8457 C 193.88117,96.336328 183.1464,93.158392 174.2832,93.068359 Z"
+       inkscape:connector-curvature="0" />
     <path
-       d="M 255.99,256.02 391.15,192.99 744.7,546.54 609.54,609.57 z"
-       inkscape:connector-curvature="0"
-       id="path63" />
-    <path
-       d="m 391.15,192.99 c 0,0 68.26,-39.842 29.23,-78.877 l 353.55,353.55 c 39.04,39.04 -29.23,78.877 -29.23,78.877 z"
-       inkscape:connector-curvature="0"
-       id="path65" />
-    <path
-       d="m 420.38,114.11 c -4.536,-4.536 -10.52,-9.06 -18.229,-13.511 l 353.55,353.55 c 7.709,4.45 13.693,8.975 18.229,13.511 z"
-       inkscape:connector-curvature="0"
-       id="path67" />
-    <path
-       d="M 402.15,100.6 C 379.3,87.408 362.489,87.2 350.11,93.061 l 353.55,353.55 c 12.379,-5.861 29.19,-5.653 52.04,7.539 z"
-       inkscape:connector-curvature="0"
-       id="path69" />
-    <path
-       d="m 350.11,93.06 c -0.729,-8.931 -4.667,-18.204 -13.707,-27.24 l 353.55,353.55 c 9.04,9.04 12.978,18.314 13.707,27.24 z"
-       inkscape:connector-curvature="0"
-       id="path71" />
-    <path
-       d="m 336.4,65.814 c -4.772,-4.772 -10.966,-9.479 -18.86,-14.04 l 353.55,353.55 c 7.894,4.558 14.09,9.265 18.86,14.04 z"
-       inkscape:connector-curvature="0"
-       id="path73" />
-    <path
-       d="m 317.54,51.777 c -13.883,-8.01 -25.17,-11.09 -34.36,-10.753 l 353.55,353.55 c 9.191,-0.334 20.479,2.738 34.36,10.753 z"
-       inkscape:connector-curvature="0"
-       id="path75" />
-    <path
-       d="M 255.99,256.02 319.02,391.1 672.57,744.65 609.54,609.57 z"
-       inkscape:connector-curvature="0"
-       id="path77" />
-    <path
-       d="m 319.02,391.1 c 0,0 7.07,12.12 18.18,23.22 l 353.55,353.55 c -11.11,-11.11 -18.18,-23.22 -18.18,-23.22 z"
-       inkscape:connector-curvature="0"
-       id="path79" />
-    <path
-       d="m 337.2,414.32 c 18.315,18.315 47.598,33.875 74.21,-12.224 l 353.55,353.55 c -26.613,46.1 -55.896,30.539 -74.21,12.224 z"
-       inkscape:connector-curvature="0"
-       id="path81" />
-    <path
-       d="m 411.41,402.1 c 13.193,-22.851 13.4,-39.661 7.539,-52.04 l 353.55,353.55 c 5.861,12.379 5.654,29.19 -7.539,52.04 z"
-       inkscape:connector-curvature="0"
-       id="path83" />
-    <path
-       d="m 418.95,350.06 c 13.645,-1.116 28.09,-9.717 41.28,-32.567 l 353.55,353.55 c -13.193,22.85 -27.636,31.451 -41.28,32.567 z"
-       inkscape:connector-curvature="0"
-       id="path85" />
-    <path
-       d="m 460.23,317.49 c 15.961,-27.646 12.24,-45.03 1.31,-55.96 l 353.55,353.55 c 10.93,10.93 14.651,28.314 -1.31,55.96 z"
-       inkscape:connector-curvature="0"
-       id="path87" />
-    <path
-       d="m 461.54,261.53 c -18.343,-18.343 -56.99,-18.512 -56.99,-18.512 l 353.55,353.55 c 0,0 38.647,0.169 56.99,18.512 z"
-       inkscape:connector-curvature="0"
-       id="path89" />
-    <path
-       d="M 404.55,243.02 255.99,255.998 609.54,609.548 758.1,596.57 z"
-       inkscape:connector-curvature="0"
-       id="path91" />
-    <path
-       d="M 255.99,256 120.91,319.03 474.46,672.58 609.54,609.55 z"
-       inkscape:connector-curvature="0"
-       id="path93" />
-    <path
-       d="m 120.91,319.03 c 0,0 -68.26,39.789 -29.23,78.81 l 353.55,353.55 c -39.03,-39.03 29.23,-78.81 29.23,-78.81 z"
-       inkscape:connector-curvature="0"
-       id="path95" />
-    <path
-       d="m 91.68,397.85 c 4.536,4.536 10.522,9.06 18.234,13.514 l 353.55,353.55 c -7.711,-4.452 -13.697,-8.978 -18.234,-13.514 z"
-       inkscape:connector-curvature="0"
-       id="path97" />
-    <path
-       d="m 109.91,411.36 c 22.85,13.192 39.659,13.459 52.04,7.602 l 353.55,353.55 c -12.381,5.858 -29.19,5.59 -52.04,-7.602 z"
-       inkscape:connector-curvature="0"
-       id="path99" />
-    <path
-       d="m 161.95,418.96 c 0.729,8.931 4.667,18.204 13.707,27.24 l 353.55,353.55 c -9.04,-9.04 -12.978,-18.314 -13.707,-27.24 z"
-       inkscape:connector-curvature="0"
-       id="path101" />
-    <path
-       d="m 175.66,446.21 c 4.772,4.772 10.966,9.479 18.86,14.04 L 548.07,813.8 c -7.894,-4.558 -14.09,-9.265 -18.86,-14.04 z"
-       inkscape:connector-curvature="0"
-       id="path103" />
-    <path
-       d="m 194.52,460.25 c 74.04,42.749 74.47,-55.742 74.47,-55.742 l 353.55,353.55 c 0,0 -0.429,98.49 -74.47,55.742 z"
-       inkscape:connector-curvature="0"
-       id="path105" />
-    <path
-       d="M 268.99,404.5 256.012,256 l 353.55,353.55 12.978,148.5 z"
-       inkscape:connector-curvature="0"
-       id="path107" />
-    <path
-       d="M 256.01,256 193.036,120.84 546.586,474.39 609.56,609.55 z"
-       inkscape:connector-curvature="0"
-       id="path109" />
-    <path
-       d="m 193.04,120.85 c 0,0 -7.07,-12.12 -18.18,-23.22 l 353.55,353.55 c 11.11,11.11 18.18,23.22 18.18,23.22 z"
-       inkscape:connector-curvature="0"
-       id="path111" />
-    <path
-       d="M 174.86,97.62 C 156.545,79.305 127.262,63.745 100.65,109.843 l 353.55,353.55 c 26.613,-46.1 55.895,-30.538 74.21,-12.223 z"
-       inkscape:connector-curvature="0"
-       id="path113" />
-    <path
-       d="m 100.65,109.85 c -13.193,22.851 -13.459,39.661 -7.602,52.04 l 353.55,353.55 c -5.858,-12.379 -5.592,-29.19 7.602,-52.04 z"
-       inkscape:connector-curvature="0"
-       id="path115" />
-    <path
-       d="m 93.05,161.89 c -13.645,1.116 -28.09,9.717 -41.28,32.567 l 353.55,353.55 c 13.193,-22.85 27.636,-31.451 41.28,-32.567 z"
-       inkscape:connector-curvature="0"
-       id="path117" />
-    <path
-       d="m 51.765,194.45 c -15.961,27.646 -12.232,45.04 -1.291,55.979 l 353.55,353.55 C 393.083,593.038 389.354,575.647 405.315,548 z"
-       inkscape:connector-curvature="0"
-       id="path119" />
-    <path
-       d="m 50.47,250.43 c 18.361,18.361 57.03,18.553 57.03,18.553 l 353.55,353.55 c 0,0 -38.672,-0.192 -57.03,-18.553 z"
-       inkscape:connector-curvature="0"
-       id="path121" />
-    <path
-       d="m 107.51,268.98 148.5,-12.978 353.55,353.55 -148.5,12.978 z"
-       inkscape:connector-curvature="0"
-       id="path123" />
+       id="path5199"
+       style="fill:#ffffff"
+       d="m 172.53593,93.097797 c -39.822,1.447 -40.17,66.430003 -40.17,66.430003 l 12.978,148.56 135.16,-63.03 c 0,0 85.05,-49.639 10.999,-92.39 -22.85,-13.192 -39.661,-13.4 -52.04,-7.539 -1.114,-13.645 -9.717,-28.09 -32.567,-41.28 -13.883,-8.010003 -25.17,-11.090003 -34.36,-10.753003 m -27.19,214.990003 63.03,135.08 c 0,0 49.639,85.05 92.39,10.999 13.193,-22.851 13.4,-39.661 7.539,-52.04 13.645,-1.116 28.09,-9.717 41.28,-32.567 42.748,-74.04 -55.68,-74.47 -55.68,-74.47 l -148.56,12.978 m 0,0 -135.08,63.03 c 0,0 -85.05,49.577 -10.999,92.33 22.85,13.192 39.659,13.459 52.04,7.602 1.114,13.645 9.717,28.09 32.567,41.28 74.04,42.749 74.47,-55.742 74.47,-55.742 l -12.978,-148.5 m 0,0 -62.974,-135.16 c 0,0 -49.639,-85.050003 -92.39,-11 -13.193,22.851 -13.459,39.661 -7.602,52.04 -13.645,1.116 -28.09,9.717 -41.28,32.567 -42.748,74.04 55.742,74.53 55.742,74.53 l 148.5,-12.978"
+       inkscape:connector-curvature="0" />
   </g>
-  <path
-     d="m 283.18,41.03 c -39.822,1.447 -40.17,66.43 -40.17,66.43 l 12.978,148.56 135.16,-63.03 c 0,0 85.05,-49.639 10.999,-92.39 -22.85,-13.192 -39.661,-13.4 -52.04,-7.539 -1.114,-13.645 -9.717,-28.09 -32.567,-41.28 -13.883,-8.01 -25.17,-11.09 -34.36,-10.753 m -27.19,214.99 63.03,135.08 c 0,0 49.639,85.05 92.39,10.999 13.193,-22.851 13.4,-39.661 7.539,-52.04 13.645,-1.116 28.09,-9.717 41.28,-32.567 42.748,-74.04 -55.68,-74.47 -55.68,-74.47 l -148.56,12.978 m 0,0 -135.08,63.03 c 0,0 -85.05,49.577 -10.999,92.33 22.85,13.192 39.659,13.459 52.04,7.602 1.114,13.645 9.717,28.09 32.567,41.28 74.04,42.749 74.47,-55.742 74.47,-55.742 l -12.978,-148.5 m 0,0 -62.974,-135.16 c 0,0 -49.639,-85.05 -92.39,-11 -13.193,22.851 -13.459,39.661 -7.602,52.04 -13.645,1.116 -28.09,9.717 -41.28,32.567 -42.748,74.04 55.742,74.53 55.742,74.53 l 148.5,-12.978"
-     inkscape:connector-curvature="0"
-     id="path125"
-     style="fill:#ffffff" />
 </svg>

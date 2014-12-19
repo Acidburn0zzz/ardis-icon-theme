@@ -22,15 +22,6 @@ PanelSizes=16,22,32,48,64,128,256
 LinkOverlay=link
 Directories=small/actions,small/apps,small/categories,small/devices,small/mimetypes,small/panel,small/places,small/status,scalable/apps,scalable/categories,scalable/devices,scalable/mimetypes,scalable/places,scalable/status
 
-[X-ArdisBuilder Settings]
-status=standard
-places=blue
-apps=standard
-actions=standard
-Edition=Basic
-devices=standard
-categories=standard
-
 
 [small/actions]
 Size=512
