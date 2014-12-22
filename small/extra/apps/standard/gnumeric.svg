@@ -39,29 +39,25 @@
      id="namedview13826"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="-8.6779661"
-     inkscape:cy="237.55932"
+     inkscape:cx="-32.542373"
+     inkscape:cy="210.44068"
      inkscape:window-x="-2"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
-  <g
-     id="g17179"
-     transform="translate(279.86441,-292.88136)">
-    <path
-       id="path10476"
-       d="m -253.86441,292.88136 c -14.397,0 -26,11.603 -26,26 l 0,460 c 0,14.397 11.603,26 26,26 l 460,0 c 14.397,0 26,-11.603 26,-26 l 0,-460 c 0,-14.397 -11.603,-26 -26,-26 l -460,0"
-       style="fill:#ce3b3d"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path13822"
-       d="m -238.86441,361.16136 0,375.43 68.28,68.28 376.72,0 c 14.397,0 26,-11.603 26,-26 l 0,-376.72 -41,-41 -430,0"
-       style="opacity:0.25"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path13824"
-       d="m -238.86441,361.16136 0,375.46 430,0 0,-375.43 -430,0 m 41.615,41.615 96.38,0 0,125.3 -96.38,0 0,-125.3 m 138.000003,0 208.779997,0 0,125.3 -208.779997,0 0,-125.3 m -138.000003,166.91 96.38,0 0,125.3 -96.38,0 0,-125.3 m 138.000003,0 208.779997,0 0,125.3 -208.779997,0 0,-125.3"
-       style="fill:#f9f9f9"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ce3b3d"
+     d="M 26,0 C 11.603,0 0,11.603 0,26 l 0,460 c 0,14.397 11.603,26 26,26 l 460,0 c 14.397,0 26,-11.603 26,-26 L 512,26 C 512,11.603 500.397,0 486,0 L 26,0"
+     id="path10476" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.25"
+     d="m 41,68.28 0,375.43 68.28,68.28 376.72,0 c 14.397,0 26,-11.603 26,-26 l 0,-376.72 -41,-41 -430,0"
+     id="path13822" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="m 41,68.28 0,375.46 430,0 0,-375.43 -430,0 m 41.615,41.615 96.38,0 0,125.3 -96.38,0 0,-125.3 m 138,0 208.78,0 0,125.3 -208.78,0 0,-125.3 m -138,166.91 96.38,0 0,125.3 -96.38,0 0,-125.3 m 138,0 208.78,0 0,125.3 -208.78,0 0,-125.3"
+     id="path13824" />
 </svg>
