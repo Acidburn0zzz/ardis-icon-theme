@@ -11,7 +11,7 @@
    viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel r13804 custom"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="xterm-color_48x48.svg">
   <metadata
      id="metadata1355">
@@ -39,8 +39,8 @@
      id="namedview1353"
      showgrid="false"
      inkscape:zoom="0.65186406"
-     inkscape:cx="347.76558"
-     inkscape:cy="212.37925"
+     inkscape:cx="160.60999"
+     inkscape:cy="199.33972"
      inkscape:window-x="-2"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -70,6 +70,29 @@
          style="stop-color:#fff;stop-opacity:0"
          offset="1" />
     </radialGradient>
+    <radialGradient
+       cx="432.67999"
+       cy="476.10999"
+       r="135.89"
+       id="1-2-0"
+       xlink:href="#2-9-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.02571,0,0,1.91372,-620.48997,-655.15968)" />
+    <radialGradient
+       cx="432.67999"
+       cy="476.10999"
+       r="135.89"
+       id="2-9-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.54384,0,0,1.45849,-411.99,-438.41)">
+      <stop
+         id="stop15147-3-1"
+         style="stop-color:#fff;stop-opacity:.335" />
+      <stop
+         id="stop15149-2-1"
+         style="stop-color:#fff;stop-opacity:0"
+         offset="1" />
+    </radialGradient>
   </defs>
   <path
      inkscape:connector-curvature="0"
@@ -78,7 +101,7 @@
      id="path15151" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:url(#1-2)"
+     style="fill:url(#1-2-0)"
      d="m 25.99941,-3.1e-4 c -10.96608,0 -20.30353,6.73593 -24.13477,16.30664 L 185.81777,264.23992 2.8041,497.76923 c 4.28351,8.45407 13.04042,14.23047 23.19531,14.23047 l 18.60547,0 L 288.5287,205.23993 137.79628,-3.1e-4 l -111.79687,0 z m 440.15039,0 -244.08203,308.82031 0.0156,0.01 151.57422,203.16993 112.3418,0 c 11.0743,0 20.48928,-6.86849 24.24804,-16.58985 L 326.10292,245.32976 509.04238,13.93133 C 504.70499,5.64103 496.03369,-3.1e-4 485.99941,-3.1e-4 l -19.84961,0 z"
      id="path15153" />
   <path
