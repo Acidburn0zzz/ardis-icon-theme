@@ -5,6 +5,7 @@ Ardis (icon theme) - Upstream repository
 > Ardis is an icon theme made to be simple and beautiful..
 
 Source is licensed under the [GNU GENERAL PUBLIC LICENSE version 2](http://www.gnu.org/licenses/gpl-2.0.html).
+
 The actual released package is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives International 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 * Check **LICENSE** file inside the package for more information.
